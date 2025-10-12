@@ -1,0 +1,1 @@
+When confidence and consideration aren't balanced, [[win-win (habit 4)]] is now off the table
