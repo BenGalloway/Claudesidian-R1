@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb61b66bb929da6b",
+            "id": "6c66965c77a6bea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index's/Book Notes Index.md",
+                "file": "Foundations of good men.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book Notes Index"
+              "title": "Foundations of good men"
             }
           },
           {
-            "id": "e1eb983d4ef4f448",
+            "id": "39e848ede350b9cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index's/Projects index.md",
+                "file": "Simple tools reduce effort.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,37 +52,48 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects index"
+              "title": "Simple tools reduce effort"
+            }
+          },
+          {
+            "id": "ec5bbd12ad47ec79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "smart notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "smart notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "2e6588946a640b9f",
+        "id": "da84bd2055d89553",
         "type": "tabs",
         "children": [
           {
-            "id": "3481edea7505f123",
+            "id": "80402e99e221d042",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index's/Work reference index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Work reference index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -158,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index's/Book Notes Index.md",
+                "file": "Simple tools reduce effort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +179,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Book Notes Index"
+              "title": "Backlinks for Simple tools reduce effort"
             }
           },
           {
@@ -177,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index's/Book Notes Index.md",
+                "file": "Simple tools reduce effort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Book Notes Index"
+              "title": "Outgoing links from Simple tools reduce effort"
             }
           },
           {
@@ -204,10 +215,24 @@
             "id": "9786049483394b9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "only do what's easy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "only do what's easy"
             }
           },
           {
@@ -216,25 +241,25 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Simple tools reduce effort.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Simple tools reduce effort"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -242,13 +267,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "eb61b66bb929da6b",
+  "active": "39e848ede350b9cc",
   "lastOpenFiles": [
-    "synergize (habit 6).md",
+    "Simple tools reduce effort.md",
+    "variety centric.md",
+    "Foundations of good men.md",
+    "smart notes.md",
+    "character ethic.md",
+    "character.md",
     "index's/Book Notes Index.md",
-    "win-win (habit 4).md",
+    "only do what's easy.md",
     "maturity.md",
     "success pyramid.md",
+    "synergize (habit 6).md",
+    "win-win (habit 4).md",
     "index's/Work reference index.md",
     "+/attachments/Pyramid_of_Success_PRINT conv 1.png",
     "+/attachments/Pasted image 20251012193956.png",
@@ -258,10 +290,8 @@
     "Claudesidian/README.md",
     "Claudesidian",
     "notebook 1 Jul 25 - Oct 25.md",
-    "character ethic.md",
     "index's/Projects index.md",
     "feedback loop opportunities.md",
-    "Untitled.md",
     "notebook 0 Feb 25 - Jun 25.md",
     "develop ideas.md",
     "empathetic listening.md",
