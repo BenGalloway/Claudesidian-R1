@@ -1,12 +1,27 @@
 # Book Notes index
 ---
+## [[notebook 2 oct 25 - TBD]]
+---
+- [[synergize (habit 6)]] [[7 habits]]--p278 [[openness]] is the absence of fear of failure
+	- [[openness]] leads to [[excitement]] and only occurs when you [[value the differences]]
+	- [[value the differences]] + [[empathetic listening]] = real [[growth]] and thus, [[change]]
+- [[sharpen the saw (habit 7]]--[[7 habits]] p297 [[Be proactive (Habit 1)]] in [[renewing yourself]]; 4 main areas: physical, mental, emotional, and spiritual
+- [[quote]]--[[7 habits]] p312 "Service is the rent we pay for living on this earth"- N. Eldon Tanner
+- [[renewing yourself]]--[[7 habits]] p319 is the [[synergize (habit 6)]] of the 7 habits themselves
+- [[transition person]]--[[7 habits]] p330 person who changes generational scripts; the link between the past and the future
+- [[core concept]]--[[7 habits]]-[[growth]] only comes when [[unity with self]] is achieved. 
 ## [[notebook 1 Jul 25 - Oct 25]]
+---
 - Sean Ryan Show (podcast) - you don't go to church you are the church
-	- Ecclesia?
+	- [[Ecclesia]]
 
 - NYT - the daily (pod) - When did gay/trans rights become a beacon for the left
 
 - [[empathetic listening]] - p.237 - part of habit 5: seek 1st to understand. Peaks at rephrasing and reflecting feelings to show understanding
+- check own [[system]] before other people when [[win-win (habit 4)]] starts to break down--[[7 habits]] p237
+- [[seek 1st to understand (habit 5)]]--[[7 habits]] p240(ish) then seek to be understood
+- [[synergize (habit 6)]] [[7 habits]]--p271 the creative release when habits 1-5 are used, and the unknown is embraced
+- John Wooden [[success pyramid]]--[[money puzzle]] p25 has 25 books written on it; only 1 is about skill. 
 ---
 ## [[notebook 0 Feb 25 - Jun 25]]
 
@@ -39,4 +54,3 @@
 - [[maturity]]--[[7 habits]] p221 where confidence and consideration are balanced
 - [[scarcity mentality]]--[[7 habits]] p222 the pie is only so big, only 1 can win.
 - [[abundance mentality]]--[[7 habits]] p222 the pie is more than big enough for all, everybody can win
-- 

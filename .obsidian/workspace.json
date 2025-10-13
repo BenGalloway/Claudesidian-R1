@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index's/Work reference index.md",
+                "file": "index's/Book Notes Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Work reference index"
+              "title": "Book Notes Index"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habits.md",
+                "file": "index's/Work reference index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +82,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Habits"
+              "title": "Work reference index"
             }
           }
         ]
@@ -158,16 +158,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index's/Book Notes Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Book Notes Index"
             }
           },
           {
@@ -176,11 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index's/Book Notes Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Book Notes Index"
             }
           },
           {
@@ -223,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,15 +244,22 @@
   },
   "active": "eb61b66bb929da6b",
   "lastOpenFiles": [
+    "synergize (habit 6).md",
+    "index's/Book Notes Index.md",
+    "win-win (habit 4).md",
+    "maturity.md",
+    "success pyramid.md",
+    "index's/Work reference index.md",
+    "+/attachments/Pyramid_of_Success_PRINT conv 1.png",
+    "+/attachments/Pasted image 20251012193956.png",
+    "+/attachments",
+    "+",
+    "Habits.md",
     "Claudesidian/README.md",
     "Claudesidian",
-    "index's/Book Notes Index.md",
-    "index's/Work reference index.md",
-    "Habits.md",
     "notebook 1 Jul 25 - Oct 25.md",
     "character ethic.md",
     "index's/Projects index.md",
-    "maturity.md",
     "feedback loop opportunities.md",
     "Untitled.md",
     "notebook 0 Feb 25 - Jun 25.md",

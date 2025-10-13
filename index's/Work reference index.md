@@ -23,6 +23,7 @@
 	- working on/near roads req. MOT
 	- Round our work to nearest $1
 	- Round subs to nearest $0.25
+	- Embankment == added to site
 	- [[planswift]] [[best practices]] orange = storm drain, green = sanitary sewer, blue = water main; start light and darken with increase in size
 
 ## [[notebook 1 Jul 25 - Oct 25]]
