@@ -1,5 +1,11 @@
 # Projects index
+
 ---
+[[The hitch hikers guide to autism]]
+[[The anti-guru]]
+
+
+
 ## [[notebook 1 Jul 25 - Oct 25]]
 - [[Toni]]--  Arcadia B&B getaway
 

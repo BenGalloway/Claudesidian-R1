@@ -10,6 +10,9 @@
 - [[renewing yourself]]--[[7 habits]] p319 is the [[synergize (habit 6)]] of the 7 habits themselves
 - [[transition person]]--[[7 habits]] p330 person who changes generational scripts; the link between the past and the future
 - [[core concept]]--[[7 habits]]-[[growth]] only comes when [[unity with self]] is achieved. 
+- [[system]] for keeping books in [[Projects index]] straight--just write the book it would be good for next to the reference
+- [[Game Theory]] as a bank heist--me 10/14
+	- [[Robert Axlerod]] - UoM 1977 study [[need to find]]
 ## [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church

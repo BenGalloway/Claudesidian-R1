@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c66965c77a6bea5",
+            "id": "aefc5b3ba25a0e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of good men.md",
+                "file": "index's/Book Notes Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Foundations of good men"
-            }
-          },
-          {
-            "id": "39e848ede350b9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple tools reduce effort.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Simple tools reduce effort"
-            }
-          },
-          {
-            "id": "ec5bbd12ad47ec79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "smart notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "smart notes"
+              "title": "Book Notes Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da84bd2055d89553",
@@ -169,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple tools reduce effort.md",
+                "file": "index's/Book Notes Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +130,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Simple tools reduce effort"
+              "title": "Backlinks for Book Notes Index"
             }
           },
           {
@@ -267,11 +218,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "39e848ede350b9cc",
+  "active": "aefc5b3ba25a0e5a",
   "lastOpenFiles": [
+    "Game Theory.md",
+    "Foundations of good men.md",
     "Simple tools reduce effort.md",
     "variety centric.md",
-    "Foundations of good men.md",
     "smart notes.md",
     "character ethic.md",
     "character.md",
@@ -299,7 +251,6 @@
     "index's",
     "Projection.md",
     "Organized Chaos.md",
-    "Passion.md",
-    "Welcome.md"
+    "Passion.md"
   ]
 }

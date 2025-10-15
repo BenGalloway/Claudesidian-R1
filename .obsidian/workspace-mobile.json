@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index's/Projects index.md",
+                "file": "Foundations of good men.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects index"
+              "title": "Foundations of good men"
+            }
+          },
+          {
+            "id": "64a45885eae483ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Game Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,9 +189,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "97c5239db8842d00",
+  "active": "64a45885eae483ff",
   "lastOpenFiles": [
+    "Foundations of good men.md",
+    "only do what's easy.md",
     "index's/Book Notes Index.md",
+    "index's/Projects index.md",
+    "The hitch hikers guide to autism.md",
+    "Simple tools reduce effort.md",
+    "win-win (habit 4).md",
+    "variety centric.md",
+    "synergize (habit 6).md",
+    "success pyramid.md",
+    "smart notes.md",
+    "character.md",
+    "+/attachments",
+    "+",
     "empathetic listening.md"
   ]
 }
