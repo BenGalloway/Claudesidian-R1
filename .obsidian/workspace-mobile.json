@@ -35,9 +35,19 @@
             "id": "64a45885eae483ff",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e72bf991e87c81f3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Theory.md",
+                "file": "index's/Book Notes Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Game Theory"
+              "title": "Book Notes Index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,12 +199,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "64a45885eae483ff",
+  "active": "e72bf991e87c81f3",
   "lastOpenFiles": [
+    "Charlie's eyes.md",
+    "index's/Projects index.md",
+    "notebook 1 Jul 25 - Oct 25.md",
+    "index's/Book Notes Index.md",
+    "Game Theory.md",
     "Foundations of good men.md",
     "only do what's easy.md",
-    "index's/Book Notes Index.md",
-    "index's/Projects index.md",
     "The hitch hikers guide to autism.md",
     "Simple tools reduce effort.md",
     "win-win (habit 4).md",

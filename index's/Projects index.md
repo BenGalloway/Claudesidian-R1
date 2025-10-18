@@ -3,7 +3,7 @@
 ---
 [[The hitch hikers guide to autism]]
 [[The anti-guru]]
-
+[[Charlie's eyes]]
 
 
 ## [[notebook 1 Jul 25 - Oct 25]]

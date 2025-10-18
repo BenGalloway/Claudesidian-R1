@@ -1,0 +1,3 @@
+Flickering eyes in the arcade shifting in arcade, from wonder to wonder, the slight time between the same objects are almost a lifetime, the return to an item explored is like visiting an old friend, still there after all this time. 
+
+And there i was just watching, presently, trying to gift you something I didn't know I was already giving you. The present was presence, the lights will fade, the wonder will shift away, but forever you'll see a smile on my face. 

@@ -1,4 +1,4 @@
-# Book Notes index
+# Notes index
 ---
 ## [[notebook 2 oct 25 - TBD]]
 ---
@@ -13,6 +13,31 @@
 - [[system]] for keeping books in [[Projects index]] straight--just write the book it would be good for next to the reference
 - [[Game Theory]] as a bank heist--me 10/14
 	- [[Robert Axlerod]] - UoM 1977 study [[need to find]]
+-  [[the gift of presence]]--10/15 my own experiences captured in [[Charlie's eyes]]
+	- But I gave him a Polaroid, figuratively of course, and he made it the center piece of a college
+- [[Exploration]] of your own thoughts - easier to [[let connections reveal themselves]]
+	- Only easy through [[externalization]]
+- [[Experimenting]] is the joy of [[Exploration]]
+- [[Personal Zettle]] - my version of the slip box form [[smart notes]], Mine uses notebooks not flashcards, indexes are my fleeting thoughts, permanent notes are made through [[Exploration]] of the index
+- [[challenges]]--[[money puzzle]] p34 or obstacles are inevitable during your journey, don't let them be a [[distraction]] from your final destination
+- [[things are messy]] -- [[money puzzle]] p34 just like in construction starting new things like [[setting goals]] is messy at first
+- [[setting goals]] [[money puzzle]]--p37 is a great place to start with a [[personal mission statement]] that Covey describes in [[7 habits]].  They must align with your [[principles]] and [[roles]] for it to become a mission statement
+- [[money puzzle]] p39 writing goals might be a way to change our script
+- [[belonging]]--BG [[change]] is inevitable, felling like you belong is a choice
+- [[Speaking for others]]--BG--is the worst form of communication possible
+- [[character ethic]] is just [[work ethic]] directed inwardly.  [[work ethic of the soul]]
+- [[Personal framing]] is different for everyone, like a fingerprint
+- [[joy]] is not just [[only do what's easy]], doing only what comes easy (within [[character]]) is what brings the joy
+- [[unity with self]]-[[money puzzle]] p56 awareness of self as Austin says in his book is realizing that your goals are closer to achievement than you realize
+- [[scarcity mentality]] shifting to [[abundance mentality]]-[[money puzzle]] p59 can lead to life changing opportunities
+	- the [[7 habits]] Covey writes about are applicable everywhere, including finance
+	- [[growth]] leads to [[change]] leads to better control of [[circle of influence]].  This circle includes money
+- [[abundance mentality]] about money with kids; [[scarcity mentality]] for myself; agonizing research before purchase
+	- kids get experiences with the purchases; i get objects typically
+- [[minimizing]] is a tool used by those with wicked intentions [[RocaNews]] 10/17/18
+	- JD vance calling young republican messages referencing gas chambers, rape, slavery, and casual racism is just "young men" telling "edgy jokes" like boys will do.
+- [[externalization]] of thoughts within my [[Personal Zettle]] give me [[Power]], [[security]], [[guidance]], and [[wisdom]] ([[7 habits]]), through a constant review of my [[principles]]
+- [[Don't stop pushing your boulder]] gravity will overcome friction when you reach the peak
 ## [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church
