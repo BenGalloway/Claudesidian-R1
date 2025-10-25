@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index's/Notes Index.md",
+                "file": "The architecture of character.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes Index"
+              "title": "The architecture of character"
             }
           }
         ]
@@ -97,6 +97,7 @@
       {
         "id": "b3155f4be742c7b9",
         "type": "tabs",
+        "dimension": 41.938405797101446,
         "children": [
           {
             "id": "21b8c6a01e920b1c",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index's/Notes Index.md",
+                "file": "The architecture of character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes Index"
+              "title": "Backlinks for The architecture of character"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple tools reduce effort.md",
+                "file": "The architecture of character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Simple tools reduce effort"
+              "title": "Outgoing links from The architecture of character"
             }
           },
           {
@@ -176,20 +177,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple tools reduce effort.md",
+                "file": "The architecture of character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Simple tools reduce effort"
+              "title": "Outline of The architecture of character"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ec31bf5d073dfa0",
+        "type": "tabs",
+        "dimension": 58.06159420289855,
+        "children": [
+          {
+            "id": "7653de26f5d02c06",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 1293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +222,16 @@
   },
   "active": "80402e99e221d042",
   "lastOpenFiles": [
+    "index's/Projects index.md",
+    "The architecture of character.md",
+    "things are messy.md",
+    "index's/Notes Index.md",
+    "Become the man you wished your dad was.md",
+    "only do what's easy.md",
     "Don't stop pushing your boulder.md",
     "work ethic of the soul.md",
-    "index's/Notes Index.md",
     "index's/Book Notes Index.md",
     "Game Theory.md",
-    "only do what's easy.md",
-    "index's/Projects index.md",
     "changing the perpetual force.md",
     "let connections reveal themselves.md",
     "quote.md",
@@ -231,10 +252,7 @@
     "+/attachments",
     "+",
     "Habits.md",
-    "Claudesidian/README.md",
     "Claudesidian",
-    "notebook 1 Jul 25 - Oct 25.md",
-    "feedback loop opportunities.md",
     "index's"
   ]
 }

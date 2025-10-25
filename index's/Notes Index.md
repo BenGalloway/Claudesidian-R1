@@ -38,6 +38,17 @@
 	- JD vance calling young republican messages referencing gas chambers, rape, slavery, and casual racism is just "young men" telling "edgy jokes" like boys will do.
 - [[externalization]] of thoughts within my [[Personal Zettle]] give me [[Power]], [[security]], [[guidance]], and [[wisdom]] ([[7 habits]]), through a constant review of my [[principles]]
 - [[Don't stop pushing your boulder]] gravity will overcome friction when you reach the peak
+- income spreadsheet--[[money puzzle]] p66 get 90 days of spending from all accounts in 1 spreadsheet; name each expense; find the average over 3 months
+	- [[Be proactive (Habit 1)]]--look into finances to [[eliminate waste]]
+- Debt sheet-[[money puzzle]] p77-Listing all debts owed; acct #, principle, mo. payment $, interest and maturity
+- Net worth sheet-[[money puzzle]] p77-list of all assets, cash, real estate, stock, crypto, precious metals, whole life insurance
+- [[Become the man you wished your dad was]]
+- [[failure]]-[[money puzzle]] p107 in the moments right after feels devastating; [[Be proactive (Habit 1)]] and choose to see it as another opportunity
+- [[money puzzle]] p107 what relationships don't offer [[progress]]; what activities; what commitments
+	- what money is being spent that might otherwise be used in a better way
+	- [[Simple tools reduce effort]] - only 3 catagories for [[finance]]: fixed, lifestyle, extra
+- Don't be afraid to take the 1st step it could be the most significant one you ever take [[Be proactive (Habit 1)]]
+- [[money puzzle]] - [[discipline]] and [[eliminate waste]] by taking extras finding 25% and removing it over 90 days, then do it again.
 ## [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church

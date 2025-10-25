@@ -4,7 +4,7 @@
 [[The hitch hikers guide to autism]]
 [[The anti-guru]]
 [[Charlie's eyes]]
-
+[[The architecture of character]]
 
 ## [[notebook 1 Jul 25 - Oct 25]]
 - [[Toni]]--  Arcadia B&B getaway
