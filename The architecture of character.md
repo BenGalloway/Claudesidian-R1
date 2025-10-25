@@ -16,4 +16,5 @@
         
 - **Section IV: Sustaining the Effort** (Drawing from _sharpen the saw_ and _Don't stop pushing your boulder_).
     
-    - _Goal:_ Discuss perseverance, handling **[[failure]]**, and the continuous need for **[[renewing yourself]]**.
+    - _Goal:_ Discuss perseverance, handling **[[failure]]**, and the continuous need for **[[renewing yourself]]**.  [[Become the man you wished your dad was]].
+    - 
