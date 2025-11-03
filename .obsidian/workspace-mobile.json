@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The anti-guru.md",
+                "file": "The architecture of character.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The anti-guru"
+              "title": "The architecture of character"
             }
           }
         ]
@@ -166,9 +166,9 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
+    "The anti-guru.md",
     "index's/Projects index.md",
     "The architecture of character.md",
-    "The anti-guru.md",
     "changing the perpetual force.md",
     "Charlie's eyes.md",
     "notebook 1 Jul 25 - Oct 25.md",
