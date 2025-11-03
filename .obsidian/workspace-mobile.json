@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "changing the perpetual force.md",
+                "file": "The anti-guru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "changing the perpetual force"
+              "title": "The anti-guru"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
-    "Charlie's eyes.md",
     "index's/Projects index.md",
+    "The architecture of character.md",
+    "The anti-guru.md",
+    "changing the perpetual force.md",
+    "Charlie's eyes.md",
     "notebook 1 Jul 25 - Oct 25.md",
     "index's/Book Notes Index.md",
     "Game Theory.md",
