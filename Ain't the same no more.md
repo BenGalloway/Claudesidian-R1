@@ -5,4 +5,4 @@ And look so much different than you, but at least I know how to grow my own food
 
 Country ain't the same no more,
 What happened to the folks that fed and helped the poor
-Living in your gated community with 
+Living in your propped fantasy driven around by an unused 4x4,
