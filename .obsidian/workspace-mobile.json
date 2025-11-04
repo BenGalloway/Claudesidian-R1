@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The architecture of character.md",
+                "file": "Ain't the same no more.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The architecture of character"
+              "title": "Ain't the same no more"
             }
           }
         ]
@@ -166,9 +166,10 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
-    "The anti-guru.md",
     "index's/Projects index.md",
+    "Ain't the same no more.md",
     "The architecture of character.md",
+    "The anti-guru.md",
     "changing the perpetual force.md",
     "Charlie's eyes.md",
     "notebook 1 Jul 25 - Oct 25.md",
