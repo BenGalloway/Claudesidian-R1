@@ -49,6 +49,18 @@
 	- [[Simple tools reduce effort]] - only 3 catagories for [[finance]]: fixed, lifestyle, extra
 - Don't be afraid to take the 1st step it could be the most significant one you ever take [[Be proactive (Habit 1)]]
 - [[money puzzle]] - [[discipline]] and [[eliminate waste]] by taking extras finding 25% and removing it over 90 days, then do it again.
+- [[seasons of life]] - [[money puzzle]] p.107 Differs according to situation; evaluation gives understanding
+- Don't be afraid to take the first step, it could be the one that changes your life [[Be proactive (Habit 1)]]
+- [[combining strategies]] into your own [[system]] that works for you is critical for [[growth]] - [[money puzzle]] p.116
+- [[money puzzle]] p.126 [[eliminate waste]] by taking 90 days to reduce 25% of extras
+	- do it again
+- [[self renewal practice questions]] - [[money puzzle]] p.142 What do I want to achieve and why? = [[begin with end in mind]] [[Don't stop pushing your boulder]]
+- [[wealth machine]] - [[money puzzle]] p.171 branch accounts all attached to the root or trunk deposit account; business, personal, tax, give, and invest
+- [[question yourself]] - easily to be filled with anxiety and fear, use the emotion to make better decisions
+- [[the money wheel]] [[money puzzle]] p.224 a captains wheel where the spaces hold: yourself, banks, family, investors, Assets and back around to self.  Go around the wheel slowly and theorize about each solution and how it does or doesn't fit
+- [[insurance]] [[money puzzle]] p.242 - should be 10x your income, make a sheet and list all insurances to find if over/under insured
+- [[bujo]] p. 18 External stimuli causing us to react instantly on [[priorities]] we didn't intentionally set
+- 
 ## [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church
