@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e14992214e449418",
+            "id": "d7a12f02ed5c27ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge yourself, change others.md",
+                "file": "Personal Framing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Challenge yourself, change others"
+              "title": "Personal Framing"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge yourself, change others.md",
+                "file": "Personal Framing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Challenge yourself, change others"
+              "title": "Backlinks for Personal Framing"
             }
           },
           {
@@ -227,13 +227,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "e14992214e449418",
+  "floating": {
+    "id": "fc09b865b4538db5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8623af774dc2fde5",
+        "type": "window",
+        "children": [
+          {
+            "id": "2f5cfe25bc8b4235",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e14992214e449418",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1080,
+        "y": 168,
+        "width": 1080,
+        "height": 936,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d7a12f02ed5c27ce",
   "lastOpenFiles": [
+    "Personal Framing.md",
+    "index's/Notes Index.md",
+    "Challenge yourself, change others.md",
     "The anti-guru.md",
     "Ain't the same no more.md",
     "maturity.md",
-    "Challenge yourself, change others.md",
-    "index's/Notes Index.md",
     "bujo.md",
     "The architecture of character.md",
     "index's/Projects index.md",
@@ -254,7 +290,6 @@
     "smart notes.md",
     "character ethic.md",
     "character.md",
-    "success pyramid.md",
     "+/attachments/Pyramid_of_Success_PRINT conv 1.png",
     "+/attachments/Pasted image 20251012193956.png",
     "+/attachments",

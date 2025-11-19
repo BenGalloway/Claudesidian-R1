@@ -1,6 +1,6 @@
 # Notes index
 ---
-## [[notebook 2 oct 25 - TBD]]
+# [[notebook 2 oct 25 - TBD]]
 ---
 - [[synergize (habit 6)]] [[7 habits]]--p278 [[openness]] is the absence of fear of failure
 	- [[openness]] leads to [[excitement]] and only occurs when you [[value the differences]]
@@ -60,8 +60,26 @@
 - [[the money wheel]] [[money puzzle]] p.224 a captains wheel where the spaces hold: yourself, banks, family, investors, Assets and back around to self.  Go around the wheel slowly and theorize about each solution and how it does or doesn't fit
 - [[insurance]] [[money puzzle]] p.242 - should be 10x your income, make a sheet and list all insurances to find if over/under insured
 - [[bujo]] p. 18 External stimuli causing us to react instantly on [[priorities]] we didn't intentionally set
-- 
-## [[notebook 1 Jul 25 - Oct 25]]
+## Nov 19th 2025
+- [[partnership]] is complicated.  Sharing how you feel with someone isn't ever easy
+- [[quote]] - [[bujo]] p. 29 - "The rush of our busy lives can quietly carve out a gulf separating our [[actions]] from our [[beliefs]]"
+- [[decision fatigue]] can be cured through externalizing our decisions; now understood as thoughts [[bujo]] p.35
+- The power of [[Simple tools reduce effort]] is the flexibility.  Apps force their structure onto the user, simple tools can change via the users needs.
+- [[Efficiency]] != speed Working on important things first = [[Efficiency]] - [[bujo]] p.50
+- The key to laying [[Foundations of good men]] is understanding their total construction 
+- [[slow down]], miss less, understand more
+- [[slow down]] won't magically produce better results, experience + slowing down will
+- [[failure]] is inevitable, how you respond isn't
+- [[micro season of life]] - A smaller type of life season, less big timeframe, more weekly, bi-weekly, monthly reflection
+	- Noticing small changes in own habits
+	- [[need to find]]: Japanese 72 micro seasons material
+- [[micro changes]] compound quickly
+- Good and bad [[Habits]] deserve exploration (barring the obvious life threatening ones)
+- [[set intentions]] not expectations for a day - [[bujo]] p.88
+	- Don't know what the day holds, how can you expect something from an unknown?
+- [[quote]] - [[bujo]] p.106 "Yes means work, it means sacrifice, it means investing time into one thing that you can no longer invest into another."
+- Get more done by focusing on less - [[bujo]] p.106 [[Simple tools reduce effort]]
+# [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church
 	- [[Ecclesia]]
