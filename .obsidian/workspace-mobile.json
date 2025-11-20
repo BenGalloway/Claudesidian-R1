@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ain't the same no more.md",
+                "file": "Personal Framing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ain't the same no more"
+              "title": "Personal Framing"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
-    "index's/Projects index.md",
     "Ain't the same no more.md",
+    "index's/Projects index.md",
     "The architecture of character.md",
     "The anti-guru.md",
     "changing the perpetual force.md",
