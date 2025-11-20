@@ -227,41 +227,6 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "fc09b865b4538db5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8623af774dc2fde5",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f5cfe25bc8b4235",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e14992214e449418",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1080,
-        "y": 168,
-        "width": 1080,
-        "height": 936,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "d7a12f02ed5c27ce",
   "lastOpenFiles": [
     "Personal Framing.md",
