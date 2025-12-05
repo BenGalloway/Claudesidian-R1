@@ -79,6 +79,14 @@
 	- Don't know what the day holds, how can you expect something from an unknown?
 - [[quote]] - [[bujo]] p.106 "Yes means work, it means sacrifice, it means investing time into one thing that you can no longer invest into another."
 - Get more done by focusing on less - [[bujo]] p.106 [[Simple tools reduce effort]]
+## Dec 4th 2025
+- [[changing your perspective]] is difficult; It becomes easier when you are [[Be proactive (Habit 1)]] and slow down and look back [[externalization]]
+- Trying to do [[everything all at once]] (see [[multitasking]]) is a myth.  You are most likely incapable
+- [[place a wedge]] between the stimulus and your [[reaction]]; this allows for recognition of what is actually important - [[bujo]] p. 124
+- [[reflection]] through [[externalization]] allows for [[failure]] to become [[insight]] - [[bujo]] p.133
+- [[curiosity]] is like a magnet, drawing you to natural interests that could be potentially meaningful - [[bujo]] p. 145
+	- [[Will you jump]]
+- [[The 4 seasons (of life]]
 # [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church
