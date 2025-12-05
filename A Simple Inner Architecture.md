@@ -4,7 +4,14 @@
 
 - **Section I: The Problem and the Philosophy** (Drawing from _7 Habits_ and _things are messy_).
     
-    - _Goal:_ Define the default state of chaos and the necessity of shifting from **[[personality ethic]]** to **[[character ethic]]**.
+    - _Goal:_ Define the default state of chaos and the necessity of shifting from **[[personality ethic]]** to **[[character ethic]]**
+	    1. Opening monologue
+	    2. [[Foundations of good men]]
+	    3. [[changing your perspective]] and [[paradigm shift]]
+	    4. [[reflection]] - the power of your mirror of words
+	    5. [[feedback loop opportunities]] and their [[perpetual force]] (iron mans arc generator)
+	    6. [[determinism]]
+	    7. [[the dartboard of discipline]]
         
 - **Section II: Building the Inner Foundation** (Drawing from _Become the man..._ and _Foundations of good men_).
     

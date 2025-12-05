@@ -2,6 +2,7 @@
 ---
 # [[notebook 2 oct 25 - TBD]]
 ---
+#### Pre me dating things
 - [[synergize (habit 6)]] [[7 habits]]--p278 [[openness]] is the absence of fear of failure
 	- [[openness]] leads to [[excitement]] and only occurs when you [[value the differences]]
 	- [[value the differences]] + [[empathetic listening]] = real [[growth]] and thus, [[change]]
@@ -86,7 +87,21 @@
 - [[reflection]] through [[externalization]] allows for [[failure]] to become [[insight]] - [[bujo]] p.133
 - [[curiosity]] is like a magnet, drawing you to natural interests that could be potentially meaningful - [[bujo]] p. 145
 	- [[Will you jump]]
-- [[The 4 seasons (of life]]
+- [[The 4 seasons (of life)]] - This is my version, a sort of contrary to [[Jim Rohn's "Seasons of Life"]]
+- [[Reduction]] to simplicity gives you the power of [[intentionality]]
+- [[multitasking]] is a myth, it is just your attention shifting too rapidly for it to matter [[bujo]] p.156 - [[smart notes]]
+- [[interest]] != occupation - [[bujo]] p. 156
+- [[system]]atic approach = deliberate + [[intentionality]] + [[curiosity]] + small steps [[micro changes]]
+- [[change]] is matter of [[choice]] - [[bujo]] p. 174 - [[7 habits]] [[Be proactive (Habit 1)]]
+- [[determinism]] external factors ([[stimulus]]) control the entire situation. Outside factors are real; focus on what you control
+- [[the dartboard of discipline]] - the system to throw your dart at your circle of control, not blame another persons dart set
+- [[bujo]] p. 180 - [[time blocking]] can be an effective way to focus on difficult tasks (setting a limit)
+	- doesn't allow for much flexibility like [[schedule your priorities]]
+- [[bujo]] p. 185 - During [[reflection]], if you feel even tiny amounts of [[joy]], [[pride]], or [[accomplishment]] at the events you took part in, keep going.  That's [[curiosity]]. If not, stop.  (Req. Reflecting)
+- [[bujo]] - p.185 [[Celebrate all accomplishments]] large and small.  Use [[Be proactive (Habit 1)]] to naturally shift to a more positive mindset, over just trying to have one. 
+- [[bujo]] - p.190 [[control your response]] serenity pray from AA has it's roots in [[stoicism]]. 
+	- You may not control your emotions entirely, but you do control your response
+- [[The anti-guru]] method part 1 finalized
 # [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church

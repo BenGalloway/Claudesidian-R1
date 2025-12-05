@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a4ced369d3f22895",
+            "id": "16b3706e1c1c36de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The 4 seasons (of life.md",
+                "file": "The anti-guru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The 4 seasons (of life"
+              "title": "The anti-guru"
+            }
+          },
+          {
+            "id": "c7f623e4695e5984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Simple Inner Architecture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Simple Inner Architecture"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The 4 seasons (of life.md",
+                "file": "A Simple Inner Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The 4 seasons (of life"
+              "title": "Backlinks for A Simple Inner Architecture"
             }
           },
           {
@@ -227,15 +251,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4ced369d3f22895",
+  "active": "c7f623e4695e5984",
   "lastOpenFiles": [
-    "The 4 seasons (of life.md",
+    "The anti-guru.md",
+    "A Simple Inner Architecture.md",
     "index's/Notes Index.md",
+    "stoicism.md",
+    "The 4 seasons (of life).md",
     "Foundations of good men.md",
-    "The architecture of character.md",
+    "A Simple Inner Architecture.md",
     "Personal Framing.md",
     "index's/Projects index.md",
-    "The anti-guru.md",
     "only do what's easy.md",
     "feedback loop opportunities.md",
     "Organized Chaos.md",
@@ -253,8 +279,6 @@
     "let connections reveal themselves.md",
     "quote.md",
     "Bring me your fears.md",
-    "Simple tools reduce effort.md",
-    "variety centric.md",
     "+/attachments/Pyramid_of_Success_PRINT conv 1.png",
     "+/attachments/Pasted image 20251012193956.png",
     "+/attachments",

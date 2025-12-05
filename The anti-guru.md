@@ -1,1 +1,1 @@
-[[The architecture of character]]
+[[A Simple Inner Architecture]]
