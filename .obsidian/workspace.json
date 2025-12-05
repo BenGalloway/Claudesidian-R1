@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The anti-guru.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The anti-guru"
-            }
-          },
-          {
-            "id": "c7f623e4695e5984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "A Simple Inner Architecture.md",
                 "mode": "source",
                 "source": false,
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "A Simple Inner Architecture"
+            }
+          },
+          {
+            "id": "c7f623e4695e5984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of good men.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Foundations of good men"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Simple Inner Architecture.md",
+                "file": "Foundations of good men.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Simple Inner Architecture"
+              "title": "Backlinks for Foundations of good men"
             }
           },
           {
@@ -253,13 +253,12 @@
   },
   "active": "c7f623e4695e5984",
   "lastOpenFiles": [
-    "The anti-guru.md",
+    "The 4 seasons (of life).md",
     "A Simple Inner Architecture.md",
+    "The anti-guru.md",
     "index's/Notes Index.md",
     "stoicism.md",
-    "The 4 seasons (of life).md",
     "Foundations of good men.md",
-    "A Simple Inner Architecture.md",
     "Personal Framing.md",
     "index's/Projects index.md",
     "only do what's easy.md",
