@@ -11,24 +11,10 @@
             "id": "74b3947242f53684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Framing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Personal Framing"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,6 +152,8 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
+    "Bring me your fears.md",
+    "Personal Framing.md",
     "Ain't the same no more.md",
     "index's/Projects index.md",
     "The architecture of character.md",
