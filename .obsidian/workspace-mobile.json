@@ -11,10 +11,24 @@
             "id": "74b3947242f53684",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Habits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Habits"
             }
           }
         ]
@@ -152,6 +166,8 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
+    "Challenge yourself, change others.md",
+    "develop ideas.md",
     "Bring me your fears.md",
     "Personal Framing.md",
     "Ain't the same no more.md",
