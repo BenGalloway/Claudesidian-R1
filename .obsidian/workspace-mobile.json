@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habits.md",
+                "file": "Jim Rohn's Season of Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Habits"
+              "title": "Jim Rohn's Season of Life"
             }
           }
         ]
@@ -166,6 +166,10 @@
   },
   "active": "74b3947242f53684",
   "lastOpenFiles": [
+    "index's/Notes Index.md",
+    "Jim Rohn's Season of Life.md",
+    "The 4 seasons (of life).md",
+    "Habits.md",
     "Challenge yourself, change others.md",
     "develop ideas.md",
     "Bring me your fears.md",
@@ -188,9 +192,7 @@
     "synergize (habit 6).md",
     "success pyramid.md",
     "smart notes.md",
-    "character.md",
     "+/attachments",
-    "+",
-    "empathetic listening.md"
+    "+"
   ]
 }

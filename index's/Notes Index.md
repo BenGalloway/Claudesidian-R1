@@ -87,7 +87,7 @@
 - [[reflection]] through [[externalization]] allows for [[failure]] to become [[insight]] - [[bujo]] p.133
 - [[curiosity]] is like a magnet, drawing you to natural interests that could be potentially meaningful - [[bujo]] p. 145
 	- [[Will you jump]]
-- [[The 4 seasons (of life)]] - This is my version, a sort of contrary to [[Jim Rohn's "Seasons of Life"]]
+- [[The 4 seasons (of life)]] - This is my version, a sort of contrary to [[Jim Rohn's Season of Life]]
 - [[Reduction]] to simplicity gives you the power of [[intentionality]]
 - [[multitasking]] is a myth, it is just your attention shifting too rapidly for it to matter [[bujo]] p.156 - [[smart notes]]
 - [[interest]] != occupation - [[bujo]] p. 156
