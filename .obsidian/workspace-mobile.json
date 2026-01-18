@@ -30,8 +30,25 @@
               "icon": "lucide-file",
               "title": "Jim Rohn's Season of Life"
             }
+          },
+          {
+            "id": "19373d304003e2bd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +178,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "74b3947242f53684",
+  "active": "19373d304003e2bd",
   "lastOpenFiles": [
-    "index's/Notes Index.md",
+    "Kanban.md",
+    "Untitled Kanban.md",
     "Jim Rohn's Season of Life.md",
+    "index's/Notes Index.md",
     "The 4 seasons (of life).md",
     "Habits.md",
     "Challenge yourself, change others.md",
@@ -190,8 +210,6 @@
     "win-win (habit 4).md",
     "variety centric.md",
     "synergize (habit 6).md",
-    "success pyramid.md",
-    "smart notes.md",
     "+/attachments",
     "+"
   ]
