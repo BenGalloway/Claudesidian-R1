@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jim Rohn's Season of Life.md",
+                "file": "variety centric.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,25 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jim Rohn's Season of Life"
+              "title": "variety centric"
             }
           },
           {
-            "id": "19373d304003e2bd",
+            "id": "23ee82f8a6b54697",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -127,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled Kanban.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,9 +190,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "19373d304003e2bd",
+  "active": "23ee82f8a6b54697",
   "lastOpenFiles": [
     "Untitled.md",
+    "variety centric.md",
     "Untitled Kanban.md",
     "Kanban.md",
     "Jim Rohn's Season of Life.md",
@@ -211,7 +218,6 @@
     "The hitch hikers guide to autism.md",
     "Simple tools reduce effort.md",
     "win-win (habit 4).md",
-    "variety centric.md",
     "+/attachments",
     "+"
   ]
