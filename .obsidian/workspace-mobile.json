@@ -35,19 +35,24 @@
             "id": "23ee82f8a6b54697",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
+                "file": "character.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "character"
             }
           }
         ],
@@ -187,10 +192,10 @@
   },
   "active": "23ee82f8a6b54697",
   "lastOpenFiles": [
+    "Kanban.md",
     "Untitled.md",
     "variety centric.md",
     "Untitled Kanban.md",
-    "Kanban.md",
     "Jim Rohn's Season of Life.md",
     "index's/Notes Index.md",
     "The 4 seasons (of life).md",
