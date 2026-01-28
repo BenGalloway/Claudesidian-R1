@@ -1,6 +1,21 @@
 # Notes index
 ---
-# [[notebook 2 oct 25 - TBD]]
+
+
+# [[Notebook 3: Dec 2025 - ]]
+## January 27th
+- [[Go-Giver]] 
+	- p.42 - [[Law of Value]] - Give more in value than you receive in payment
+	- p.62 - [[Law of compensation]] - Income is determined by the number of people you serve
+	- p.77 [[Law of Influence]] - Influence is determined y your abundance of placing other interest's over your own [[win-win (habit 4)]], [[begin with end in mind]]
+	- p.105 [[Law of Authenticity]] - The Most Valuable gift you can give is yourself
+	- [[Law of Reciprocation]] - You must open yourself up to receiving in order for the giving to benefit you and others
+-  [[Surrounded by Idiots]]
+	- p.18 - The [[perception]] of others is their understanding
+		- Fostering [[communicate|communication]] is done with flexibility, enabled by [[understanding]] ([[empathetic listening]])
+		- 4 personality types/colors: Red/Dominant, Yellow/Inducement, Green/Submissive, Blue/Analytic
+		- 
+# [[notebook 2 oct 25 - Dec. 2025]]
 ---
 #### Pre me dating things
 - [[synergize (habit 6)]] [[7 habits]]--p278 [[openness]] is the absence of fear of failure
@@ -102,6 +117,13 @@
 - [[bujo]] - p.190 [[control your response]] serenity pray from AA has it's roots in [[stoicism]]. 
 	- You may not control your emotions entirely, but you do control your response
 - [[The anti-guru]] method part 1 finalized
+## Jan 27th 2026
+- [[Dr. Eric Weiss]] - Stem Cells and autism
+- [[bujo]] p.192 - fight or flight causes us to defend our personality in the heat of the moment
+	- let it pass, externalize then examine = less time spent worrying gives more time to find [[win-win (habit 4)]] solutions
+- [[politics]] - Amendment suggestion: No elected, appointed or employed person within the executive branch shall be allowed to call into question the legality of; recommend changes; or otherwise question the ratified amendments of the Constitution
+- [[bujo]] p.205 - [[Meaning in the mundane]] - An argument over something small, or a scolding for not doing the dishes can be a clever disguise for a cry for help.
+- [[The anti-guru]] - F.A.I.L. - First attempt in learning
 # [[notebook 1 Jul 25 - Oct 25]]
 ---
 - Sean Ryan Show (podcast) - you don't go to church you are the church
