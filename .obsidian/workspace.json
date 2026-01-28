@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index's/Notes Index.md",
+                "file": "Challenge yourself, change others.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes Index"
-            }
-          },
-          {
-            "id": "16b3706e1c1c36de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Simple Inner Architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A Simple Inner Architecture"
-            }
-          },
-          {
-            "id": "c7f623e4695e5984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of good men.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Foundations of good men"
+              "title": "Challenge yourself, change others"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of good men.md",
+                "file": "Challenge yourself, change others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Foundations of good men"
+              "title": "Backlinks for Challenge yourself, change others"
             }
           },
           {
@@ -251,33 +202,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "c7f623e4695e5984",
+  "active": "80402e99e221d042",
   "lastOpenFiles": [
-    "The 4 seasons (of life).md",
-    "A Simple Inner Architecture.md",
-    "The anti-guru.md",
+    "Untitled.md",
+    "Kanban.md",
+    "Jim Rohn's Season of Life.md",
+    "Giving your Change away.md",
+    "Challenge yourself, change others.md",
     "index's/Notes Index.md",
-    "stoicism.md",
-    "Foundations of good men.md",
-    "Personal Framing.md",
+    "A Simple Inner Architecture.md",
+    "smart notes.md",
+    "The anti-guru.md",
     "index's/Projects index.md",
+    "Become the man you wished your dad was.md",
+    "things are messy.md",
+    "index's/Work reference index.md",
+    "7 habits.md",
+    "Simple tools reduce effort.md",
+    "Foundations of good men.md",
+    "The 4 seasons (of life).md",
+    "stoicism.md",
+    "Personal Framing.md",
     "only do what's easy.md",
     "feedback loop opportunities.md",
     "Organized Chaos.md",
-    "Challenge yourself, change others.md",
     "Ain't the same no more.md",
     "maturity.md",
     "bujo.md",
-    "things are messy.md",
-    "Become the man you wished your dad was.md",
     "Don't stop pushing your boulder.md",
-    "work ethic of the soul.md",
-    "index's/Book Notes Index.md",
-    "Game Theory.md",
-    "changing the perpetual force.md",
-    "let connections reveal themselves.md",
-    "quote.md",
-    "Bring me your fears.md",
     "+/attachments/Pyramid_of_Success_PRINT conv 1.png",
     "+/attachments/Pasted image 20251012193956.png",
     "+/attachments",
