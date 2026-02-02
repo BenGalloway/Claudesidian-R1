@@ -2,4 +2,4 @@ John Henry.  Hopefully that name rings a bell. The man that beat the machine, ma
 
 In the original tale, John Henry beats the steam drill, 13 feet to 9, before he collapsed and died from exhaustion (This was NOT what happens in the movie from my childhood). And if you care to dig a little, like any good bit of folklore, their might even be a hint of truth to this story. But what happens in the real world is, steel drivers begin to work *alongside* the steam powered drills. Combining the tools of new with the wisdom and determination of old. Allowing a tunnel, 1.2 miles long, through hard red shale, to be completed in just 2 years. I should mention it's the year 1870, and I'm referring to the big bend tunnel. 
 
-But here I am, back in the year 2026 reading an article ()
+But here I am, back in the year 2026 reading an article (https://open.substack.com/pub/jahojariaho/p/keanu-reeves-shuts-down-elon-musk?utm_source=share&utm_medium=android&r=3w76ge) 
