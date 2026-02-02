@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a390926fff8d592b",
+        "id": "ea8c831d7079ae26",
         "type": "tabs",
         "children": [
           {
-            "id": "74b3947242f53684",
+            "id": "baf8d6461a1a0c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variety centric.md",
+                "file": "Man vs Machine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "variety centric"
-            }
-          },
-          {
-            "id": "23ee82f8a6b54697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "character.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": true,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "character"
+              "title": "Man vs Machine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +165,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "23ee82f8a6b54697",
+  "active": "baf8d6461a1a0c1c",
   "lastOpenFiles": [
+    "Man vs Machine.md",
+    "variety centric.md",
+    "character.md",
     "Kanban.md",
     "Untitled.md",
-    "variety centric.md",
     "Untitled Kanban.md",
     "Jim Rohn's Season of Life.md",
     "index's/Notes Index.md",
@@ -216,8 +193,6 @@
     "Foundations of good men.md",
     "only do what's easy.md",
     "The hitch hikers guide to autism.md",
-    "Simple tools reduce effort.md",
-    "win-win (habit 4).md",
     "+/attachments",
     "+"
   ]
