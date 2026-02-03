@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smart notes.md",
+                "file": "child-like wonder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "smart notes"
+              "title": "child-like wonder"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "baf8d6461a1a0c1c",
   "lastOpenFiles": [
+    "smart notes.md",
     "child-like wonder.md",
     "It's easy to be a cynic.md",
     "Simple tools reduce effort.md",
@@ -216,7 +217,6 @@
     "changing the perpetual force.md",
     "Charlie's eyes.md",
     "notebook 1 Jul 25 - Oct 25.md",
-    "index's/Book Notes Index.md",
     "+/attachments",
     "+"
   ]
