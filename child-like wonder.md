@@ -8,4 +8,6 @@ I absolutely abhor writing about myself, so bear with me for just a few sentence
 
 And that's the whole point. The thought carried enough emotional weight, without being completely formed, that it carried my hands to place where it could be stored. Incubated at the bottom of my creative toy box. Only to be discovered again, with more time passes, and the glint of a fleeting thought turns into a flame of creational momentum. Culminating in an output that is unique, inspired, and entirely my own.  
 
-You can unlearn the linear method pounded into your head starting in kindergarten (first year of school in the U.S.). You can learn to be a child, exploring experimenting
+You can unlearn the linear method pounded into your head starting in kindergarten (first year of school in the U.S.). You can learn to have a child-like wonder, exploring, experimenting, and most importantly ***FAILING.*** 
+
+So many people throw things away, or i
