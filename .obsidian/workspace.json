@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Man vs Machine.md",
+                "file": "Child-like Wonder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Man vs Machine"
+              "title": "Child-like Wonder"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Child-like Wonder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Child-like Wonder"
             }
           },
           {
@@ -239,7 +240,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "92480fa2e55b1d72",
+  "active": "5343e673806c8c2c",
   "lastOpenFiles": [
     "Man vs Machine.md",
     "Drag Race with Self-Doubt.md",
