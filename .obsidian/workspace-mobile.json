@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "child-like wonder.md",
+                "file": "smart notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "child-like wonder"
+              "title": "smart notes"
             }
           },
           {
@@ -191,8 +191,8 @@
   },
   "active": "baf8d6461a1a0c1c",
   "lastOpenFiles": [
-    "It's easy to be a cynic.md",
     "child-like wonder.md",
+    "It's easy to be a cynic.md",
     "Simple tools reduce effort.md",
     "let connections reveal themselves.md",
     "Man vs Machine.md",
