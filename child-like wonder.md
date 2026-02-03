@@ -10,4 +10,4 @@ And that's the whole point. The thought carried enough emotional weight, without
 
 You can unlearn the linear method pounded into your head starting in kindergarten (first year of school in the U.S.). You can learn to have a child-like wonder, exploring, experimenting, and most importantly ***FAILING.*** 
 
-So many people throw things away, or i
+So many people throw things away, or into a junk drawer, and forget they exist.  Inevitably purchasing a replacement that wasn't necessary in the first place. 
