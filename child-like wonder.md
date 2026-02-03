@@ -6,4 +6,6 @@ The good news is this, by reading this...thing (essay sounds to formal, complete
 
 I absolutely abhor writing about myself, so bear with me for just a few sentences. The title of this article (yeah, that fits better) has sat in my personal obsidian vault for roughly a year. Created, put down, and nearly forgotten about...until today.  Then, the images of what I described in my opening, were my kids displaying that exact behavior. And I could finally articulate it in way I couldn't a year ago.
 
-And that's the whole point. The thought was good 
+And that's the whole point. The thought carried enough emotional weight, without being completely formed, that it carried my hands to place where it could be stored. Incubated at the bottom of my creative toy box. Only to be discovered again, with more time passes, and the glint of a fleeting thought turns into a flame of creational momentum. Culminating in an output that is unique, inspired, and entirely my own.  
+
+You can unlearn the linear method pounded into your head starting in kindergarten (first year of school in the U.S.). You can learn to be a child, exploring experimenting
