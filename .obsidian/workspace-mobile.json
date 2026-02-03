@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "child-like wonder"
             }
+          },
+          {
+            "id": "db29c0719e6711c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "It's easy to be a cynic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "It's easy to be a cynic"
+            }
           }
         ]
       }
@@ -167,8 +191,9 @@
   },
   "active": "baf8d6461a1a0c1c",
   "lastOpenFiles": [
-    "Simple tools reduce effort.md",
+    "It's easy to be a cynic.md",
     "child-like wonder.md",
+    "Simple tools reduce effort.md",
     "let connections reveal themselves.md",
     "Man vs Machine.md",
     "variety centric.md",
@@ -192,7 +217,6 @@
     "Charlie's eyes.md",
     "notebook 1 Jul 25 - Oct 25.md",
     "index's/Book Notes Index.md",
-    "Game Theory.md",
     "+/attachments",
     "+"
   ]
