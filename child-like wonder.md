@@ -4,4 +4,6 @@ This ability to connect via obscure pathways is effectively taught out of us as 
 
 The good news is this, by reading this...thing (essay sounds to formal, complete thoughts aren't typically structured, and this is definitely not a book, idfk man labels are stupid) you're effectively a witnessing that you can, in fact, change that. 
 
-I absolutely abhor writing about myself, so bear with me for just a few sentences. The title of this article (yeah, that fits better) has sat in my personal obsidian vault
+I absolutely abhor writing about myself, so bear with me for just a few sentences. The title of this article (yeah, that fits better) has sat in my personal obsidian vault for roughly a year. Created, put down, and nearly forgotten about...until today.  Then, the images of what I described in my opening, were my kids displaying that exact behavior. And I could finally articulate it in way I couldn't a year ago.
+
+And that's the whole point. The thought was good 
