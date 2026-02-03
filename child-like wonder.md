@@ -10,4 +10,4 @@ And that's the whole point. The thought carried enough emotional weight, without
 
 You can unlearn the linear method pounded into your head starting in kindergarten (first year of school in the U.S.). You can learn to have a child-like wonder, exploring, experimenting, and most importantly ***FAILING.*** 
 
-So many people throw things away, or into a junk drawer, and forget they exist.  Inevitably purchasing a replacement that wasn't necessary in the first place. 
+So many people throw things away, or into a junk drawer, and forget they exist.  Inevitably purchasing a replacement that wasn't necessary in the first place. That's just an example using a nominal household item. As humans we can generate 16,000 to 60,000 thoughts a day, most them discarded because they don't operate within a self imposed linear model we use to think and connect. I got tired of throwing those away, and this is me doing something about it. 
