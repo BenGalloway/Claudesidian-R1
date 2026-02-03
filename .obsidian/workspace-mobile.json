@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Man vs Machine.md",
+                "file": "child-like wonder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Man vs Machine"
+              "title": "child-like wonder"
             }
           }
         ]
@@ -167,6 +167,9 @@
   },
   "active": "baf8d6461a1a0c1c",
   "lastOpenFiles": [
+    "Simple tools reduce effort.md",
+    "child-like wonder.md",
+    "let connections reveal themselves.md",
     "Man vs Machine.md",
     "variety centric.md",
     "character.md",
@@ -190,9 +193,6 @@
     "notebook 1 Jul 25 - Oct 25.md",
     "index's/Book Notes Index.md",
     "Game Theory.md",
-    "Foundations of good men.md",
-    "only do what's easy.md",
-    "The hitch hikers guide to autism.md",
     "+/attachments",
     "+"
   ]
