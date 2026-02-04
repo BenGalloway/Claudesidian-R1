@@ -26,6 +26,6 @@ Jest's aside, the question remains.  Did those two examples register on a differ
 
 They common responses depict a simple fairy tale.  The knight saving the princess, so to speak.  It feels good but the characters are empty shells. Hollow as a bird bone.
 
-The other two, those victories were personal, without a doubt.  But they were witnesses to the victories of others, in addition to having others bear witness to their victories. 
+The other two, those victories were personal, without a doubt.  But they were witnesses to the victories of others, while simultaneously having theirs witnessed.
 
-They aren't the knight in the story. They are a peasant in the village hosting the parade upon the knights return. Jubilant at a victory they have every right to be a part of. 
+They aren't the knight in the story. They are a peasant in the village hosting the parade for the knights return. Jubilant at a victory they fought for, albeit from their home 
