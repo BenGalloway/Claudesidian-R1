@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "It's easy to be a cynic"
             }
+          },
+          {
+            "id": "6ae60a46a42a5fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be aware of your marks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Be aware of your marks"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,10 +214,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "baf8d6461a1a0c1c",
+  "active": "6ae60a46a42a5fbf",
   "lastOpenFiles": [
-    "smart notes.md",
+    "Be aware of your marks.md",
     "child-like wonder.md",
+    "smart notes.md",
     "It's easy to be a cynic.md",
     "Simple tools reduce effort.md",
     "let connections reveal themselves.md",
@@ -216,7 +242,6 @@
     "The anti-guru.md",
     "changing the perpetual force.md",
     "Charlie's eyes.md",
-    "notebook 1 Jul 25 - Oct 25.md",
     "+/attachments",
     "+"
   ]
