@@ -2,10 +2,9 @@ Be aware of the marks men ask for you to leave on their hearts
 
 For every scar there becomes a wound that man will wear
 
-Bloodied
+Bloodied, flesh torn to shreds
 For better or worse, 
-Through any fire,
-They carry this curse,
+Through any fire, they willfully carry your curse
 
 Of being unable to share the pain it is that they bear
 
