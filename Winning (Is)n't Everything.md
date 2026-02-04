@@ -20,4 +20,12 @@ We finally got there.  My instinct led me to the three words, "the sun rose."
 
 The other response that distinguished itself was, "he's in remission."
 
-Maybe a sudden knot in the stomach lurched.  Potentially, goose bumps rose on your skin. 
+Maybe a sudden knot in your stomach lurched.  Potentially, goose bumps rose on your skin. Or, I'm the one with problems and emotions evoked from crafted words aren't the point.
+
+Jest's aside, the question remains.  Did those two examples register on a different scale? Was the difference present? 
+
+They common responses depict a simple fairy tale.  The knight saving the princess, so to speak.  It feels good but the characters are empty shells. Hollow as a bird bone.
+
+The other two, those victories were personal, without a doubt.  But they were witnesses to the victories of others, in addition to having others bear witness to their victories. 
+
+They aren't the knight in the story. They are a peasant in the village hosting the parade upon the knights return. Jubilant at a victory they have every right to be a part of. 
