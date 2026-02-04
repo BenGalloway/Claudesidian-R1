@@ -10,3 +10,11 @@ There were many iterations of the same thing. I.e. "they finally kissed", "they 
 
 Don't take where I'm going as a critique of these stories. I'm simply pointing to a generality to make a point. Which we'll arrive to eventually.
 
+All of these responses to this prompt are entirely valid. They stand alone in the realm of relatable emotions portrayed as a picture where words are the frame and the substance.
+
+But they all share a distinct similarity. They all rely on assumptions of personal victory. Where a single entity stands alone in triumph, surrounded by a void of nothingness.
+
+My response?
+
+We're getting there, calm down.  My instinct led me to the three words, "the sun rose."
+
