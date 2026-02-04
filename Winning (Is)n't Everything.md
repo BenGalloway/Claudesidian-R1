@@ -28,4 +28,4 @@ They common responses depict a simple fairy tale.  The knight saving the princes
 
 The other two, those victories were personal, without a doubt.  But they were witnesses to the victories of others, while simultaneously having theirs witnessed.
 
-They aren't the knight in the story. They are a peasant in the village hosting the parade for the knights return. Jubilant at a victory they fought for
+They aren't the knight in the story. They are a peasant in the village hosting the parade for the knights return. Jubilant at a victory they fought for. Albeit inderectly. 
