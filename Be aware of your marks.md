@@ -103,3 +103,7 @@ The man smiles through the grit and teeth, a soldier in your war.
 He recognizes the hand that twisted the metal in the gap,
 
 And dies content to know his heart was caught within your trap.
+
+Sweet death giver, you must understand,
+This man chose you alone for the task,
+Your the reason behind the length of his stand.
