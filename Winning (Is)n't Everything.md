@@ -30,3 +30,4 @@ The other two, those victories were personal, without a doubt.  But they were wi
 
 They aren't the knight in the story. They are a peasant in the village hosting the parade for the knights return. Jubilant in a victory they fought for. Albeit inderectly. 
 
+Once upon a time, fairy tales that centered around the prominent protagonist were all that you knew. And you envisioned your self as Arthur, leading the round table. Or the princess dancing with Prince before losing a glass slipper
