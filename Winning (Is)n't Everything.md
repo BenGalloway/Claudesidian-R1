@@ -18,3 +18,5 @@ My response?
 
 We're getting there, calm down.  My instinct led me to the three words, "the sun rose."
 
+The other response that distinguished itself was, "he's in remission."
+
