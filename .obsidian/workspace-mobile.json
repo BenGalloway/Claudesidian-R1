@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Be aware of your marks"
             }
+          },
+          {
+            "id": "fd5bff22631e896e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winning (Is)n't Everything.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Winning (Is)n't Everything"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,8 +238,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6ae60a46a42a5fbf",
+  "active": "fd5bff22631e896e",
   "lastOpenFiles": [
+    "Winning (Is)n't Everything.md",
     "Be aware of your marks.md",
     "child-like wonder.md",
     "smart notes.md",
@@ -241,7 +266,6 @@
     "The architecture of character.md",
     "The anti-guru.md",
     "changing the perpetual force.md",
-    "Charlie's eyes.md",
     "+/attachments",
     "+"
   ]
