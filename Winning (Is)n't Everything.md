@@ -4,7 +4,7 @@ Scrolling along the Substack void I encountered this challenge myself.  In a goo
 
 I instinctively wrote my three words and proceeded to scroll the other answers to the deviously simple exercise. 
 
-I will for both of our sanity's sake, omit the garbage trolls reply's.
+I will, for sanity, omit the garbage trolls' reply's.
 
 There were many iterations of the same thing. I.e. "they finally kissed", "they lived happily,", "I woke up", "it was finished".
 
