@@ -1,10 +1,10 @@
 Here's a challenge writing prompt: Write a happy story in just 3 words.
 
-Scrolling along the Substack void I encountered this challenge myself.  In a good mood, and with a fun, light hearted exercise with a clear direction. To achieve maximum creative impact with a limited number of words. I hit the reply button.
+Scrolling along the Substack void I encountered this challenge myself.  In a good mood, and with a fun, light hearted exercise with a clear direction.  Achieve maximum creative impact with a limited number of words. I hit the reply button.
 
 I instinctively wrote my three words and proceeded to scroll the other answers to the deviously simple exercise. 
 
-I will, for sanity, omit the garbage trolls' replys.
+I will, for sanity, omit the garbage trolls' replies.
 
 There were many iterations of the same thing. I.e. "they finally kissed", "they lived happily,", "I woke up", "it was finished".
 
@@ -22,12 +22,14 @@ The other response that distinguished itself was, "he's in remission."
 
 Maybe a sudden knot in your stomach lurched.  Potentially, goose bumps rose on your skin. Or, I'm the one with problems and emotions evoked from crafted words aren't the point.
 
-Jest's aside, the question remains.  Did those two examples register on a different scale? Was the difference present? 
+Joke aside, the question remains.  Did those two examples register on a different scale? Was the difference present? 
 
-They common responses depict a simple fairy tale.  The knight saving the princess, so to speak.  It feels good but the characters are empty shells. Hollow as a bird bone.
+The common responses depict a simple fairy tale.  The knight saving the princess, so to speak.  It feels good but the characters are empty shells. Hollow as a bird bone.
 
 The other two, those victories were personal, without a doubt.  But they were witnesses to the victories of others, while simultaneously having theirs witnessed.
 
-They aren't the knight in the story. They are a peasant in the village hosting the parade for the knights return. Jubilant in a victory they fought for. Albeit inderectly. 
+They aren't the knight in the story. They are a peasant in the village hosting the parade for the knight's return. Jubilant in a victory they fought for, albeit indirectly. 
 
-Once upon a time, fairy tales that centered around the prominent protagonist were all that you knew. And you envisioned your self as Arthur, leading the round table. Or the princess dancing with the prince before losing a glass slipper.
+Every kid saw themself as the fairy tale protagonist once upon a time.  But the fact is we can't all have fairy tale endings.  
+
+Which is why reading three words, designed to be a short story with the theme of "happy",  can transform into an essay on sacrifice and selflessness.  Because as the fairy tales fade into memories shared with the next generation, you are doing the greatest form of winning. Sacrificing a cherished memory, thoughtlessly giving it away.  Giving somebody else the chance to see the same sun rise you and I did.
