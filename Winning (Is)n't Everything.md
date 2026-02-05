@@ -1,4 +1,5 @@
-Here's a challenge writing prompt: Write a happy story in just 3 words.
+
+Every kid saw themself as the fairy tale protagonist once upon a time.  But the fact is we can't all have fairy tale endings.  Here's a challenge writing prompt: Write a happy story in just 3 words.
 
 Scrolling along the Substack void I encountered this challenge myself.  In a good mood, and with a fun, light hearted exercise with a clear direction.  Achieve maximum creative impact with a limited number of words. I hit the reply button.
 
@@ -30,6 +31,5 @@ The other two, those victories were personal, without a doubt.  But they were wi
 
 They aren't the knight in the story. They are a peasant in the village hosting the parade for the knight's return. Jubilant in a victory they fought for, albeit indirectly. 
 
-Every kid saw themself as the fairy tale protagonist once upon a time.  But the fact is we can't all have fairy tale endings.  
 
 Which is why reading three words, designed to be a short story with the theme of "happy",  can transform into an essay on sacrifice and selflessness.  Because as the fairy tales fade into memories shared with the next generation, you are doing the greatest form of winning. Sacrificing a cherished memory, thoughtlessly giving it away.  Giving somebody else the chance to see the same sun rise you and I did.
