@@ -23,4 +23,23 @@ The president, in his shrill, almost babyish verbal gait, *"Today was one of the
 
 William had enough at that point.  
 
-*I don't know how Wanda absorbs her entertainment with Chris A. On Webby News Projecection, when Chris B. On Webby News Publication seems to have a lower sum of teeth and a better view point.*
+*I don't know how Wanda absorbs her entertainment with Chris A. On Webby News Projection, when Chris B. On Webby News Publication seems to have a lower sum of teeth and a better delivery than his brother.*
+
+The end of that thought coincided with the terminal having completed it's starting sequence. Which took Williams attention away from the summation of teeth from Chris A. and shifted his focus to the article by Chris B he now had open on the Webby News Publication portal on the terminal. The only thing that accompanied this portal was a library directory.  Home to all known manuals on the planet. Freely accessible with a tap.
+
+As Chris B's article concludes it's summary of the historical 0.44% increase in production being rounded improperly, Willam saw something new at the bottom of the publication.  A box, that read simply, *New Manual Discovery: The Manual of Truth (tap for reading)*
+
+"Wanda, they seem to have discovered a new manual and are announcing it on Webby publication, have you absorbed the Webby Projection talking about it yet?" Wanda did not hear William. And it would be rude had she, after she called him cooperational. He turned back around and tapped where the screen instructed him to.  
+
+The screen of the terminal 6's screen appeared to shut off. "New machines, rolled out without proper documentation..." Then the screen lit back to life, only it looked different. 
+
+The two icons that filled the majority of the available space were gone, and it appeared as if a manual was writing itself, letter by letter, right on to the now voided space. 
+
+*In order to gain full access to the manual of truth, the following steps must be followed. Any falter on the end users part will cause the new manual to instantly be destroyed and never be correctly added to the library.
+1: No communication to another citizen is allowed during this process about this process
+2: At 12:47 AM tomorrow morning you will get dressed
+3: 12:56 AM you start your 2.2 mile walk to the rear entrance of Infrastructure inc.
+
+*More instructions from the manual will be waiting there*
+
+"What a strange manual." Followed by William setting his Gooberment issued watch to wake him exactly at 12:47 AM.  Manuals were always correct, the Gooberment ensured it. 
