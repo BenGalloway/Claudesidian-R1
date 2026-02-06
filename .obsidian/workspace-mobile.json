@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Dystopia Life"
             }
+          },
+          {
+            "id": "9e8c57e71b7933ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dystopia - Scene 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dystopia - Scene 1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,7 +229,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kanban.md",
+            "file": "Dystopia - Scene 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -262,10 +286,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "123babee403aee0b",
+  "active": "9e8c57e71b7933ed",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Dystopia - Scene 1.md",
     "Dystopia Life.md",
+    "Untitled.md",
     "Winning (Is)n't Everything.md",
     "Be aware of your marks.md",
     "child-like wonder.md",
@@ -277,7 +302,6 @@
     "variety centric.md",
     "character.md",
     "Kanban.md",
-    "Untitled.md",
     "Untitled Kanban.md",
     "Jim Rohn's Season of Life.md",
     "index's/Notes Index.md",
