@@ -6,9 +6,12 @@ ___
 "Can you query again after I've finished absorbing the entertainment William?"
 "Of course, spouse." Said while turning to walk away.
 "Thank you for being cooperational." Freezing in his tracks, without moving his feet Willam turns is head so Wanda sees only half his face with a single raised brow, "not that kind of cooperation. I'm much to tired for synthesis to occur tonight."
-A huff and William followed the familiar path to the terminal. 
 
-Looking around his house as he went, he admired the fashionable construction of their home. The soft, strangely textured tape still visible where the interior construction panels met. The singular wooden table, just large enough to be accompined by the 2 chairs at either end.  He grabbed one of them and sat down at the only other fixture that resembled furniture.  The Gooberment issued terminal 6. 
+Shrugging, "it's only been 48 days, what's another one?" Wanda did not replay, entirely reengaged with her task of absorbtion.
+
+Looking around his house as he went, he admired the technical construction of their home. Which, according to the weekend programming from Webby Projection weekend programming, is considered "in" and "hip". Like those words fit a description of something not being placed in a part of anatomy.
+
+The soft, strangely textured tape still visible where the interior construction panels met. The singular wooden table, just large enough to be accompined by the 2 chairs at either end.  He grabbed one of them and sat down at the only other fixture that resembled furniture.  The Gooberment issued terminal 6. 
 
 7% smaller than the terminal 5, it was held up by legs similar to the ones seen on the table.  Though,  he noticed the legs of the terminal were considerably thicker. He hit the button labeled "power" and was met by the 1 of 2 extra sources of light available in the residence. The light of the terminal screen meshed with the light from above and the light from the Gooberment issued entertainment projector, that was currently occupying Wanda's attention.
 
