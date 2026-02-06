@@ -42,4 +42,13 @@ The two icons that filled the majority of the available space were gone, and it 
 
 *More instructions from the manual will be waiting there*
 
-"What a strange manual." Followed by William setting his Gooberment issued watch to wake him exactly at 12:47 AM.  Manuals were always correct, the Gooberment ensured it. 
+"What a strange manual." Followed by William setting his Gooberment issued watch to wake him exactly at 12:47 AM.  Manuals were always correct, the Gooberment ensured this.
+
+With a silent, significant zap of electrostatic energy, William's eyes snapped open. And a few brief blinks to clear the typical expulsion from the ducts present at the edges of his orbital sockets, was up and getting dressed. At 12:56 He was locking the door behind him and taking the first step in the direction of Infrastructure Inc.  
+
+The building stood as a a solitary pillar, towering above the neighborhood in its most central location. Every house, the same shape on this half of the neighborhood, and mirrored on the other half.
+
+William walked the same path everyday to get to his employer, and he didn't see any reason to deviate this time. Arriving about forty-five minutes after starting, he realized he was at the front door. 
+
+*My internal habitual navigation sensor took over, the manual said rear entrance*. 
+
