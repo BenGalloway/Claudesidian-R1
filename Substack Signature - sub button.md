@@ -1,0 +1,1 @@
+Thanks for reading through to the end. If you’d like updates when I release things like this, feel free to subscribe. No newsletter, no pressure, never paid.
