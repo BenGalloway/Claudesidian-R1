@@ -29,4 +29,22 @@ With an unnatural seat seemingly the standard by looking at the other seats in l
 
 The absurdity of the folded chair gets worse.  As William feels a sudden but brief sensation of falling into his much more accustomed position. 
 
-Oddly, it caused minimal pain for William. A fall like that on any chair he'd sat in up to this point of existence very well could have shattered his cocix. 
+Oddly, it caused minimal pain for William. A fall like that on any chair he'd sat in up to this point of existence very well could have shattered his coccyx as the anatomy manual called it. 
+
+Feeling his newly altered chair for any mother potential stresses or fractures he discovers there is a material present.  It feels to him like the thick tweed jackets used by the men in the community during the winter. 
+
+*But why would you leave your jacket on a malfunctioning chair?*
+
+And as he continued feeling the oddly covered seat he found the reason nothing had broken. The tweed material had covered some kind of sponge. Much like the one used for dish sanitizing, only this one didn't leave his fingers wrinkled from over saturated conditions. It also appeared to have a much quicker mechanical rebound function compared with the dish sponge. 
+
+None of these things had ever presented themselves in a manner that would facilitate William to produce the combination he now found his body placed on. And he at this very moment was enamoured with this over engineering from the seating technology department.
+
+*The Gooberment officials and President Toastcrumb must be the only ones privaleged enough to use a seat designed this way.  This must be a storage of prototypes*
+
+Mid thought a second light bloomed to life from somewhere behind him illuminating a comforting white patch of black wall.  Turning to check there wasn't a malfunction with the light seen when he came in, William was startled to see that light was now dimmer than before. Exposing fewer air particles, and this new light was both further up, and somehow further back.
+
+*The manual didn't say anything about this.  Maybe an introductory projection of the new manual is 
+ required*
+
+  "Any improvement that achieves 10% or greater is required to be accompined by a projection to explain how an accomplishment of this magnituted was constructed, and the requirements for implementation." William quietly recited the relevant manual of Law to himself. 
+
