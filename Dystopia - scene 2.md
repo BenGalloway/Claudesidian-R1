@@ -10,4 +10,5 @@ As his first foot descends onto sub-level 2's floor it strikes William, *20 year
 
 William begins to review the labels on the various doors as he passes each.  
 
-Retarders
+Retarders: Flame, Water, Brain
+Safety: Vests, Lights, First
