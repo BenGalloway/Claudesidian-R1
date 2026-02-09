@@ -22,3 +22,11 @@ Finally coming across the one he was scanning for, remembering the manual's inst
 Analyzing the room in order to accomplish the manual's next instruction, William uses the moderately obstructed light and sees the shade of an outline resembling the back of a chair.
 
 When he reaches the seating side of the chair his eyes widen, as he's unsure how the chair operates. The portion of the chair responsible for placing the posterior is in an unnatural position for such. It appears to William as if the chair was folded like a manual page being prepped for mail delivery to a new promotion from primary education. 
+
+With an unnatural seat seemingly the standard by looking at the other seats in line with this one, William attempts to prop himself on what should be the edge of a seat.
+
+***THUNK***!
+
+The absurdity of the folded chair gets worse.  As William feels a sudden but brief sensation of falling into his much more accustomed position. 
+
+Oddly, it caused minimal pain for William. A fall like that on any chair he'd sat in up to this point of existence very well could have shattered his cocix. 
