@@ -52,5 +52,7 @@ William walked the same path everyday to get to his employer, and he didn't see 
 
 *My internal navigation sensor took over, the manual said rear entrance*. 
 
-As William rounds the corner to the rear of the building, the door there enters his vision.  The door was unremarkable, the same color as the building itself, and did not have a handle or push bar. But these monotonies
+As William rounds the corner to the rear of the building, the door there enters his vision.  The door was unremarkable, the same color as the building itself, and did not have a handle or push bar. But these monotonies were of no real import, but the manual page taped there was new.
+
+*Enter here, navigate to sub-level 2, locate the door labeled "Screenings: Sand, Silver, Dirt, Enter there and find a place to sit.*
 
