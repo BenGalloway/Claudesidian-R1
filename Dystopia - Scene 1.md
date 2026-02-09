@@ -50,5 +50,7 @@ The building stood as a a solitary pillar, towering above the neighborhood in it
 
 William walked the same path everyday to get to his employer, and he didn't see any reason to deviate this time. Arriving about forty-five minutes after starting, he realized he was at the front door. 
 
-*My internal habitual navigation sensor took over, the manual said rear entrance*. 
+*My internal navigation sensor took over, the manual said rear entrance*. 
+
+As William rounds the corner to the rear of the building, the door there enters his vision.  The door was unremarkable, the same color as the building itself, and did not have a handle or push bar. But these monotonies
 
