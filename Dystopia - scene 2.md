@@ -19,3 +19,6 @@ Finally coming across the one he was scanning for, remembering the manual's inst
 *The sanitary team must be behind schedule again.* 
 
 
+Analyzing the room in order to accomplish the manual's next instruction, William uses the moderately obstructed light and sees the shade of an outline resembling the back of a chair.
+
+When he reaches the seating side of the chair his eyes widen, as he's unsure how the chair operates. The portion of the chair responsible for placing the posterior is in an unnatural position for such. It appears to William as if the chair was folded like a document being prepped for mail delivery. 
