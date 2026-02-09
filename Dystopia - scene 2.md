@@ -10,5 +10,12 @@ As his first foot descends onto sub-level 2's floor it strikes William, *20 year
 
 William begins to review the labels on the various doors as he passes each.  
 
-Retarders: Flame, Water, Brain
-Safety: Vests, Lights, First
+Retarders: Flame, Water, Brain.
+Safety: Vests, Lights, First.
+Scales: Reptile, Weight, Metric, Non-Metric.
+
+Finally coming across the one he was scanning for, remembering the manual's instruction, *Enter there, find a seat.* he crosses the threshold and is immediately attacked with an unfamiliar smell.  Registering to William as stale, and unsanitized, with particles visibly suspended in the lone light beam illuminating the space. 
+
+*The sanitary team must be behind schedule again.* 
+
+
