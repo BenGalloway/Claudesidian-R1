@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "baf8d6461a1a0c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "child-like wonder.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "child-like wonder"
-            }
-          },
-          {
-            "id": "db29c0719e6711c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "It's easy to be a cynic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "It's easy to be a cynic"
-            }
-          },
-          {
-            "id": "6ae60a46a42a5fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be aware of your marks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Be aware of your marks"
-            }
-          },
-          {
-            "id": "fd5bff22631e896e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winning (Is)n't Everything.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Winning (Is)n't Everything"
-            }
-          },
-          {
-            "id": "0245012cbe4bf4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dystopia Life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dystopia Life"
-            }
-          },
-          {
             "id": "9e8c57e71b7933ed",
             "type": "leaf",
             "state": {
@@ -150,9 +30,33 @@
               "icon": "lucide-file",
               "title": "Dystopia - Scene 1"
             }
+          },
+          {
+            "id": "726203729dc2717a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dystopia - scene 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dystopia - scene 2"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,10 +190,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9e8c57e71b7933ed",
+  "active": "726203729dc2717a",
   "lastOpenFiles": [
-    "Substack Signature - sub button.md",
+    "Dystopia - scene 2.md",
     "Dystopia - Scene 1.md",
+    "Substack Signature - sub button.md",
     "Dystopia Life.md",
     "Untitled.md",
     "Winning (Is)n't Everything.md",
@@ -313,7 +218,6 @@
     "Bring me your fears.md",
     "Personal Framing.md",
     "Ain't the same no more.md",
-    "index's/Projects index.md",
     "+/attachments",
     "+"
   ]
