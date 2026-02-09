@@ -46,5 +46,5 @@ Mid thought a second light bloomed to life from somewhere behind him illuminatin
 *The manual didn't say anything about this.  Maybe an introductory projection of the new manual is 
  required*
 
-  "Any improvement that achieves 10% or greater is required to be accompined by a projection to explain how an accomplishment of this magnituted was constructed, and the requirements for implementation." William quietly recited the relevant manual of Law to himself. 
+  "Any improvement that achieves 10% or greater is required to be accompined by a projection to explain how an accomplishment of this magnituted was constructed, and the requirements for implementation." William quietly recited the relevant portion of the manual of Law to himself. 
 
