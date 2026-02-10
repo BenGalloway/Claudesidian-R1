@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dystopia - scene 2.md",
-                "mode": "source",
+                "file": "Dystopia - Scene 1.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dystopia - scene 2"
+              "title": "Dystopia - Scene 1"
             }
           },
           {
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dystopia - scene 2.md",
+            "file": "Dystopia - Scene 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,8 +177,8 @@
   },
   "active": "9e8c57e71b7933ed",
   "lastOpenFiles": [
-    "Dystopia - Scene 1.md",
     "Dystopia - scene 2.md",
+    "Dystopia - Scene 1.md",
     "Substack Signature - sub button.md",
     "Dystopia Life.md",
     "Untitled.md",
