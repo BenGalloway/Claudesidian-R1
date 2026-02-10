@@ -65,4 +65,4 @@ ___
 
 "So I'll replay the projection through a vocally transmitted recall to help you understand."
 
-"An all metal citizen is seen carrying what can only be a much larger, older version of a vaporizing euthinasia device.  And it projected vocals, within the the manual projection, it's vocals were 'We must end Cara Honor'
+"An all metal citizen is seen carrying what can only be a much larger, older version of a vaporizing euthinasia device.  And it projected vocals, within the the manual projection, it's vocals were 'We must end Cara Honor"
