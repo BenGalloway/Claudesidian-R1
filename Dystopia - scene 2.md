@@ -76,4 +76,8 @@ William watches the most inhumane euthanasia event imaginable as the projection 
 
 As William cleans himself amidst these internal questions, he looks up to realize more words had come on to the screen.  Only this time, they weren't being assembled. They were seemingly helium based portions of manual, appearing from nothing at the bottom of the now gray hued white section of wall.  But the words were not clearly directions.
 
-"Craaay-tiiiiive Die-rectum?" Almost as if asking himself if it was a word or not.
+"Craaay-tiiiiive Die-rectum?" Almost as if asking himself if it was a word or not. 
+
+As the last of the apparently air based text exited over an infinitely small ledge, more assembly of a manual was happening now that culminated with:
+
+"*The benefit has not been fully explained up to this point, as stated previously this is an all new Gooberment method appointment to "
