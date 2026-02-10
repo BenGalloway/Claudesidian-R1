@@ -48,4 +48,4 @@ Mid thought a second light bloomed to life from somewhere behind him illuminatin
 
   "Any improvement that achieves 10% or greater is required to be accompined by a projection to explain how an accomplishment of this magnituted was constructed, and the requirements for implementation." William quietly recited the relevant portion of the manual of Law to himself. 
 
-The next thing William knew the 2nd light changed color and text began to appear on the large white patch of wall.  William had never before seen the process in which manuals were assembled, just know that words gave general and sometimes expl
+The next thing William knew the 2nd light changed color and text began to appear on the large white patch of wall, now almost as black as it's surroundings.  William had never before seen the process in which manuals were assembled, just know that words gave general and sometimes expl
