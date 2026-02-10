@@ -1,7 +1,7 @@
 Unsure of length yet, first idea that came to me is this:
 
 Sweat pooling his eyes despite the cool early morning mist that shrouds half the street. Eyelids glued to his forehead, unable to remember the last time sleep was even a probability.  
-(* Indicators for italics on markdown)
+(* Indicators for italics on Markdown)
 *This has to be the spot. It's the only place that makes sense. 
 
 If I want anything to change I have to go in.
@@ -34,3 +34,5 @@ Investigating the microphone tentatively with his fingers, like it might be pois
 William never claimed to be the most colorful crayon, or knew what a crayon was.
 
 "Ah-ha, red circle." A thin plastic *thunk*, then, "My Name is William Ford, and I read a manual that doesn't exist in the libraries as we know them."
+
+Next: [[Dystopia - Scene 1]]
