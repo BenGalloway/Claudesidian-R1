@@ -72,6 +72,6 @@ ___
 ___
 William watches the most inhumane euthanasia event imaginable as the projection of the manual "The Ruminator" ends.  This makes William nauseated, and he releases the sick into the floor next to him.  
 
-*Why would a Net of Sky's want to kill a Cara Honor? What instructios does this....this projected manual of inhumane treating of citizens have to do with productivity improvement?*
+*Why would a Net of Sky's want to kill a Cara Honor? What instructios does this....this projected manual of inhumane treating of citizens by.....by, by alternate metal civilians have to do with productivity improvement?*
 
-As William cleans himself amidst these internal questions, he looks up to realize more words had come on to the screen.  Only this time, they weren't being assembled. They were seemingly 
+As William cleans himself amidst these internal questions, he looks up to realize more words had come on to the screen.  Only this time, they weren't being assembled. They were seemingly helium based portions of manual, appearing from nothing at the bottom of the 
