@@ -80,4 +80,6 @@ As William cleans himself amidst these internal questions, he looks up to realiz
 
 As the last of the apparently air based text exited over an infinitely small ledge, more assembly of a manual was happening now that culminated with:
 
-"*The benefit has not been fully explained up to this point, as stated previously this is an all new Gooberment method appointment to "
+"*The benefit has not been fully explained up to this point, as stated previously this is an all new Gooberment manual you've been appointed to be one of the selected few to absorb before release.  We will contact you in a similar manner with the next session.  It is necessary you tell no other citizen of your involvement or face termination."
+
+With there seemingly being nothing else coming, William quickly walked out of the basement and covered the 2.2 miles home faster than he knew was capable. 
