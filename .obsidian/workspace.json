@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dystopia - scene 3.md",
+                "file": "Dystopia Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dystopia - scene 3"
+              "title": "Dystopia Life"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dystopia - scene 3.md",
+                "file": "Dystopia Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dystopia - scene 3"
+              "title": "Backlinks for Dystopia Life"
             }
           },
           {
@@ -231,8 +231,8 @@
   "active": "9b99efc1f0e4881b",
   "lastOpenFiles": [
     "Dystopia - scene 3.md",
-    "Dystopia - scene 2.md",
     "Dystopia - Scene 1.md",
+    "Dystopia - scene 2.md",
     "Dystopia Life.md",
     "Challenge yourself, change others.md",
     "Untitled.md",

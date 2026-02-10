@@ -30,7 +30,7 @@ The absurdity of the folded chair gets worse.  As William feels a sudden but bri
 
 Oddly, it caused minimal pain for William. A fall like that on any chair he'd sat in up to this point of existence very well could have shattered his coccyx as the anatomy manual called it. 
 
-Feeling his newly altered chair for any mother potential stresses or fractures he discovers there is a material present.  It feels to him like the thick tweed jackets used by the men in the community during the winter. 
+Feeling his newly altered chair for any other potential stresses or fractures he discovers there is a material present.  It feels to him like the thick tweed jackets used by the men in the community during the winter. 
 
 *But why would you leave your jacket on a malfunctioning chair?*
 
@@ -47,7 +47,7 @@ Mid thought a second light bloomed to life from somewhere behind him illuminatin
 
   "Any improvement that achieves 10% or greater is required to be accompanied by a projection to explain how an accomplishment of this magnitude was constructed, and the requirements for implementation." William quietly recited the relevant portion of the manual of Law to himself. 
 
-The next thing William knew the 2nd light changed color and text began to appear on the large white patch of wall, now almost as black as it's previous surroundings.  William had never before seen the process in which manuals were assembled, just know that words gave general and sometimes explicit instructions for everything known to man (or at least William).
+The next thing William knew the 2nd light changed color and text began to appear on the large white patch of wall, now almost as black as its previous surroundings.  William had never before seen the process in which manuals were assembled, just know that words gave general and sometimes explicit instructions for everything known to man (or at least William).
 
 As the assembly proceeded and finished William read:
 
@@ -62,7 +62,7 @@ A hiss, remnants of times past, and a technology abandoned by the masses so long
 
 Just momentarily before a thin voice returns.
 
-"My introduction to the manual of truth was in a dark, poorly sanitized space. It was a projection paired with the manual. Just like Webby projections allow is to absorb when there is a 10% or greater increase in productivity in a single area and a manual is updated."
+"My introduction to the manual of truth was in a dark, poorly sanitized space. It was a projection paired with the manual. Just like Webby projections allows us to absorb when there is a 10% or greater increase in productivity in a single area and a manual is updated."
 
 "But this projection, was unlike any I have absorbed before. It was not about the importance of the improvement."
 
@@ -79,7 +79,7 @@ William watches the most inhumane euthanasia event imaginable as the projection 
 
 As William cleans himself amidst these internal questions, he looks up to realize more words had come on to the screen.  Only this time, they weren't being assembled. They were seemingly helium based portions of manual, appearing from nothing at the bottom of the now gray hued white section of wall.  But the words were not clearly directions.
 
-"Craaay-tiiiiive Die-rectum?" Almost as if asking himself is it was a word or not. 
+"Craaay-tiiiiive Die-rectum?" Almost asking himself if it was a real word or not. 
 
 As the last of the apparently air based text exited over an infinitely small ledge, more assembly of a manual was happening now that culminated with:
 

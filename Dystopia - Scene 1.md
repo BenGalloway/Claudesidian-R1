@@ -7,9 +7,9 @@ ___
 "Of course, spouse." Said while turning to walk away.
 "Thank you for being cooperational." Freezing in his tracks, without moving his feet William turns his head, so Wanda sees only half his face with a single raised brow, "not that kind of cooperation. I'm much to tired for synthesis to occur tonight."
 
-Shrugging, "it's only been 48 days, what's another one?" Wanda did not replay, entirely reengaged with her task of absorption.
+Shrugging, "it's only been 48 days, what's another one?" Wanda did not reply, entirely reengaged with her task of absorption.
 
-Looking around his house as he went, he admired the technical construction of their home. Which, according to the weekend programming from Webby Projection weekend programming, is considered "in" and "hip". Like those words fit a description of something not being placed in a part of anatomy.
+Looking around his house as he went, he admired the technical construction of their home. Which, according to the weekend programming from Webby Projection, is considered "in" and "hip". Like those words fit a description of something other than a part of anatomy.
 
 The soft, strangely textured tape still visible where the interior construction panels met. The singular wooden table, just large enough to be accompanied by the 2 chairs at either end.  He grabbed one of them and sat down at the only other fixture that resembled furniture.  The Gooberment issued terminal 6. 
 
@@ -25,7 +25,7 @@ William had enough at that point.
 
 *I don't know how Wanda absorbs her entertainment with Chris A. On Webby News Projection, when Chris B. On Webby News Publication seems to have a lower sum of teeth and a better delivery than his brother.*
 
-The end of that thought coincided with the terminal having completed its starting sequence. Which took Williams attention away from the summation of teeth from Chris A. and shifted his focus to the article by Chris B he had opened on the Webby News Publication portal on the terminal. The only thing that accompanied this portal was a library directory.  Home to all known manuals on the planet. Freely accessible with a tap.
+The end of that thought coincided with the terminal having completed its starting sequence. Which took William's attention away from the summation of teeth from Chris A. and shifted his focus to the article by Chris B he had opened on the Webby News Publication portal on the terminal. The only thing that accompanied this portal was a library directory.  Home to all known manuals on the planet. Freely accessible with a tap.
 
 As Chris B's article concludes its summary of the historical 0.44% increase in production being rounded improperly, William saw something new at the bottom of the publication.  A box, that read simply, *New Manual Discovery: The Manual of Truth (tap for reading)*
 
