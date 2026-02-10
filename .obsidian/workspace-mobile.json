@@ -35,13 +35,28 @@
             "id": "726203729dc2717a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dystopia - scene 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dystopia - scene 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dystopia - Scene 1.md",
+            "file": "Dystopia - scene 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,10 +190,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9e8c57e71b7933ed",
+  "active": "726203729dc2717a",
   "lastOpenFiles": [
-    "Dystopia - scene 2.md",
     "Dystopia - Scene 1.md",
+    "Dystopia - scene 2.md",
     "Substack Signature - sub button.md",
     "Dystopia Life.md",
     "Untitled.md",
