@@ -48,4 +48,21 @@ Mid thought a second light bloomed to life from somewhere behind him illuminatin
 
   "Any improvement that achieves 10% or greater is required to be accompined by a projection to explain how an accomplishment of this magnituted was constructed, and the requirements for implementation." William quietly recited the relevant portion of the manual of Law to himself. 
 
-The next thing William knew the 2nd light changed color and text began to appear on the large white patch of wall, now almost as black as it's previous surroundings.  William had never before seen the process in which manuals were assembled, just know that words gave general and sometimes explicit instructions for everything known to man
+The next thing William knew the 2nd light changed color and text began to appear on the large white patch of wall, now almost as black as it's previous surroundings.  William had never before seen the process in which manuals were assembled, just know that words gave general and sometimes explicit instructions for everything known to man (or at least William).
+
+As the assembly proceeded and finished William read:
+
+*At this stage the manual of truth is unfit for the unselected citizens to be made aware of.  If you are incapable of retaining the information presented here within yourself, unable to recite the incomplete manual to any other citizen you must excuse yourself now.*
+
+"Wanda isn't aware of my preference for Chris B. This is a simple instruction" William proclaimed to the empty space around him (she did know, and it was not).
+
+Almost as if somebody *was* listening, the text disappeared and William had something he would later come to call "an experience".
+
+___
+"My introduction to the manual of truth was in a dark, poorly sanitized space. It was a projection paired with the manual. Just like Webby projections allow is to absorb when there is a 10% or greater increase in productivity in a single area and a manual is updated."
+
+"But this projection, was unlike any I have absorbed before. It was not about the importance of the improvement."
+
+"So I'll replay the projection through a vocally transmitted recall to help you understand."
+
+"An all metal citizen is seen carrying what can only be a much larger, older version of the "
