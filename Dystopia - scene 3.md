@@ -33,7 +33,7 @@ The seventh day was known as Duties Day. Where all employees of Infrastructure I
 
 Any given Duties Day men could be found, at their preferred time of morning, inserting portable power stations into their Gooberment issued yard height correction systems. And proceed to push the system around their respective vectors, correcting the height of the organic green material there. 
 
-William, on one of the standard days, was approached by a peer, while he was, unknown to himself at his document processor, "William, is your task on schedule to fall within the completion deadline?"
+William, on one of the standard days, was approached by a peer, while he was, unknown to himself, locked in a staring match with his document processor, "William, is your task on schedule to fall within the completion deadline?"
 
 William, hesitates with a small start, "Sorry, what? Oh, yes. The task is ahead of schedule"
 
@@ -54,3 +54,5 @@ The hiss was still present. But was less piercing, moving closer to the tone of 
 "While I still carried my preference for Webby's Chris B I began to bring the chair I used at the terminal over next to Wanda to absorb Chris A for an extended 8 minutes a week. In order to increase my cooperation levels with her."
 
 "As that allotment expired, I would proceed to read the Webby Publication of that days affairs.  Until the manual of truth appeared within my reading material again on Friday, August 3rd."
+
+Next: [[Dystopia - Scene 4]]
