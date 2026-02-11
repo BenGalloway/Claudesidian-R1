@@ -42,3 +42,7 @@ William, hesitates with a small start, "Sorry, what? Oh, yes. The task is ahead 
 The person who approached him, he saw now was a colleague, younger than William, but tracked for a position above his own.
 
 The colleague nodded sharply, "Understood", and turned, walking back to his desk.
+___
+The hiss was still present. But was less piercing, moving closer to the tone of a mother gently hushing a newborn.
+
+"And this was the first time since that projection that"
