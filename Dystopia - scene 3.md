@@ -33,4 +33,4 @@ Any given Duties Day men could be found, at their preferred time of morning, ins
 
 William, on one of the standard days, was approached by a peer, while he was, unknowingly staring at his document processor, "William, is your task on schedule to fall within the completion deadline?"
 
-William
+William, hesitates with a small start, "Sorry, what? Oh yes. "
