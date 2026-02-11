@@ -33,4 +33,12 @@ Any given Duties Day men could be found, at their preferred time of morning, ins
 
 William, on one of the standard days, was approached by a peer, while he was, unknowingly staring at his document processor, "William, is your task on schedule to fall within the completion deadline?"
 
-William, hesitates with a small start, "Sorry, what? Oh yes. "
+William, hesitates with a small start, "Sorry, what? Oh, yes. The task is ahead of schedule"
+
+"Are you feeling unwell?"
+
+"Negative, just processing difficult mental arithmetic."
+
+The person who approached him, he saw now was a colleague, younger than William, but tracked for a position above his own.
+
+The colleague nodded sharply, "Understood", and turned, walking back to his desk.
