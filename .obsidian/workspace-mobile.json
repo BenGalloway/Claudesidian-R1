@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dystopia - scene 2.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dystopia - scene 2"
-            }
-          },
-          {
-            "id": "726203729dc2717a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Dystopia - scene 3.md",
                 "mode": "source",
                 "source": false,
@@ -185,14 +161,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "9e8c57e71b7933ed",
   "lastOpenFiles": [
-    "Dystopia - Scene 1.md",
-    "Dystopia - scene 3.md",
     "Dystopia - scene 2.md",
+    "Dystopia - scene 3.md",
+    "Dystopia - Scene 1.md",
     "Substack Signature - sub button.md",
     "Dystopia Life.md",
     "Untitled.md",
