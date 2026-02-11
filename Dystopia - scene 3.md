@@ -51,4 +51,4 @@ The hiss was still present. But was less piercing, moving closer to the tone of 
 
 "While I still carried my preference for Webby's Chris B I began to bring the chair I used at the terminal over next to Wanda to absorb Chris A for an extended 8 minutes a week. In order to increase my cooperation levels with her."
 
-"As that allotment expired, I would proceed to read the Webby Publication of that days affairs.  Until the manual of truth appeared within my reading material again, Agust"
+"As that allotment expired, I would proceed to read the Webby Publication of that days affairs.  Until the manual of truth appeared within my reading material again on Friday, August 3rd."
