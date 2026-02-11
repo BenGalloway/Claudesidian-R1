@@ -45,4 +45,10 @@ The colleague nodded sharply, "Understood", and turned, walking back to his desk
 ___
 The hiss was still present. But was less piercing, moving closer to the tone of a mother gently hushing a newborn.
 
-"And this was the first time since that projection that"
+"And this was the first time since the projection that I questioned if I had, as the manual of health states, had a dream".
+
+"As I completed tasks at work, I allowed myself far too much wasteful time staring at the document processor".
+
+"While I still carried my preference for Webby's Chris B I began to bring the chair I used at the terminal over next to Wanda to absorb Chris A for an extended 8 minutes a week. In order to increase my cooperation levels with her."
+
+"As that allotment expired, I would proceed to read the Webby Publication of that days affairs.  Until the manual of truth appeared within my reading material again, Agust"
