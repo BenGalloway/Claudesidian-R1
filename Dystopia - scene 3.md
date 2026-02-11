@@ -33,7 +33,7 @@ The seventh day was known as Duties Day. Where all employees of Infrastructure I
 
 Any given Duties Day men could be found, at their preferred time of morning, inserting portable power stations into their Gooberment issued yard height correction systems. And proceed to push the system around their respective vectors, correcting the height of the organic green material there. 
 
-William, on one of the standard days, was approached by a peer, while he was, unknowingly staring at his document processor, "William, is your task on schedule to fall within the completion deadline?"
+William, on one of the standard days, was approached by a peer, while he was, unknown to himself at his document processor, "William, is your task on schedule to fall within the completion deadline?"
 
 William, hesitates with a small start, "Sorry, what? Oh, yes. The task is ahead of schedule"
 
