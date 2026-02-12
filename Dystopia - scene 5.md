@@ -9,6 +9,23 @@ William's mouth flanks were no longer sore. When he exited his residence at his 
 *Or was it Saturday morning? 
 Irrelevant.
 What manual requires a strictly auditory projection? 
-There is a male and female anchor on Webby Projection, and there were male and female sonic vibrations. They must be attempting a more economical approach to the projection. One where the large summation of teeth contained in Chris A's vocal output device is not required.*
+There is a male and female anchor on Webby Projection, and there were male and female sonic vibrations. They must be attempting a more economical approach to the projection. One where the large sum of teeth contained in Chris A's vocal output device is not required.*
 
+William continued his task through to completion. Attempting to replicate the masculine sonic vibrations he had heard as he entered the residence.
 
+"*hmmmm-hm-hm-hmmm
+hm-hm-hm-hmmmmmm*"
+
+"William, are you the producer of that sonic output?" Wanda asked, approximately 6 steps through the threshold.
+
+"Wh-What?"
+
+He hesitated. 
+
+*I'm going to be terminated if I tell her. The manual of truth was clear*.
+
+"The vibration that produces sonic output, were you the generator of the one that my audio processors absorbed just moments prior?"
+
+"I...I wasn't generating vibrations Wanda. I was reciting the manual of health.  The section on avoidance of catastrophic internal heating ranges".
+
+Wanda's eyes fell to William's feet. Then, Escalated  like a manual for a brief moment.  
