@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dystopia - Scene 4.md",
+                "file": "Dystopia - scene 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dystopia - Scene 4"
+              "title": "Dystopia - scene 5"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Dystopia Prologue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,9 +188,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "123babee403aee0b",
+  "active": "9e8c57e71b7933ed",
   "lastOpenFiles": [
     "Dystopia - Scene 4.md",
+    "Dystopia - scene 5.md",
     "Dystopia Prologue.md",
     "Dystopia - scene 2.md",
     "Dystopia - scene 3.md",
@@ -216,7 +216,6 @@
     "Habits.md",
     "Challenge yourself, change others.md",
     "develop ideas.md",
-    "Bring me your fears.md",
     "+/attachments",
     "+"
   ]
