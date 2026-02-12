@@ -38,4 +38,4 @@ Williams mouth flanks were red from the requirements of his duties being primari
 
 "Thank you for your cooperation".
 ___
-"I don't recall having annunciated those words in that phrase to Wanda in our period of relations. When synthesis occurred "
+"I don't recall having annunciated those words in that phrase to Wanda in our period of relations. When synthesis occurred 57 days"
