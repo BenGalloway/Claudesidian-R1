@@ -28,4 +28,14 @@ He hesitated.
 
 "I...I wasn't generating vibrations Wanda. I was reciting the manual of health.  The section on avoidance of catastrophic internal heating ranges".
 
-Wanda's eyes fell to William's feet. Then, Escalated  like a manual for a brief moment.  
+Wanda's eyes fell to William's feet. Then, escalated quickly to match the slope needed for visual engagement protocol. 
+
+William felt his left pectoral region and his gastrointestinal system tighten in unison.
+
+"Apologies for the accusation spouse. I'll prepare the nutrition for day-center".
+
+Williams mouth flanks were red from the requirements of his duties being primarily outdoors.  But he felt the rise in surface temperature at this moment.
+
+"Thank you for your cooperation".
+___
+"I don't recall having "
