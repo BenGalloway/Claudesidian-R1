@@ -38,4 +38,6 @@ Williams mouth flanks were red from the requirements of his duties being primari
 
 "Thank you for your cooperation".
 ___
-"I don't recall having annunciated those words in that phrase to Wanda in our period of relations. Synthesis occurred after 57 days."
+"I don't recall having annunciated those words in that phrase to Wanda in our period of relations. Synthesis occurred after 57 days".
+
+"I was able to control my left metatarsals during the timeframe between the manual of truth projections. Attempts to mimic the masculine voice of an entirely sonic absorption were only admitted when I had no citizens within audible vicinity".
