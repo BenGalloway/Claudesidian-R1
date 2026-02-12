@@ -1,4 +1,4 @@
-"The introduction with the Manual of Truth was the night of July 23rd, 2096"
+"The introduction of the Manual of Truth occurred the night of July 23rd, 2096"
 
 ___
 "What things are most important to President Toastcrumb today Wanda?" Starting the nightly ritual by asking a question William already knew the response to.
