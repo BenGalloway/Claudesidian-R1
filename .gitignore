@@ -1,1 +1,21 @@
+# Exclude all Obsidian-specific settings by default
+.obsidian/
+
+# But include specific configuration files and directories if desired
+!.obsidian/plugins/
+!.obsidian/themes/
+!.obsidian/snippets/
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/hotkeys.json
+!.obsidian/appearance.json
+
+# Exclude specific cache and workspace files that frequently cause conflicts
 .obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/.obsidian-git-data # If using the Obsidian Git plugin
+
+# Exclude OS-specific files and trash
+.trash/
+.DS_Store
