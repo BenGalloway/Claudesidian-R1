@@ -60,4 +60,8 @@ William bent at the waist to return the manual to the vacancy present on the sus
 
 Retrieval protocol was automatic.
 
-*Who would let a manual page become less than pristine? All these undulations *
+*Who would let a manual page become less than pristine? These undulations require immediate processing and replacement.*
+
+Then he saw the words.
+
+**
