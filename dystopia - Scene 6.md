@@ -28,3 +28,14 @@ Same times, same door, new label.
 
 *I'm to locate a door labeled Text: Cellular, Sacred, Authorial.*
 
+When William arrived to the familiar floor of basement he was uninterested in the labels of the surrounding doors. Looking only at the first letter, if unlike the prescribed label given by the manual of truth it was immediately discarded. 
+
+William was required to allocate more time to the discovery of this label. As his inefficient method appeared to have led his navigation further down the sublevel than any previous prior visits. 
+
+*How many doors are present here?*
+
+Then he found it. But the text on this door was different from those he'd encountered during his projection focused visits. 
+
+These letters were reflective. Their saturation made them appear darker, but the reflection they produced reminded William of the yellow light that blinded him briefly. And for another 17 seconds he could only look at these letters before he progressed beyond the threshold. 
+
+Unlike the other two
