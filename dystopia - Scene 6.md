@@ -8,4 +8,21 @@
 ___
 *Six cycles. I must have failed.  This termination was swift and hasteful. Entirely new type of manual, with similar precision to the existing ones.*
 
-September 10th, 2096
+On September 10th, 2096 Williams 113 extra seconds had continued its diminishment.  Parallel to those with Infrastructure Inc. He now only spent 49 extra seconds with Wanda by this point. 
+
+As he progressed through the standard domestic tasks, he progressed to his initiation of the terminal. Upon accessing the Webby Publication he nearly didn't observe it. 
+
+The manual of truth, presenting itself again. With the same uniformity of each instance prior. 
+
+When his neural processing unit deciphered what his orbital receptors had absorbed his improper seating posture corrected itself immediately. 
+
+His orbital receptors lubricating protection system were incapable of performing their duties. 
+
+And the upper flanks of his mouth raised in temperature. 
+
+He stayed this way, incapable of absorbing even the sound from the Webby Projection Wanda was absorbing, for an estimated 87 seconds. 
+
+Then he pressed the screen to display the instruction set for this projection. 
+
+Same times, same door, new label.
+
