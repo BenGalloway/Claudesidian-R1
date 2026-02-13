@@ -38,4 +38,6 @@ Then he found it. But the text on this door was different from those he'd encoun
 
 These letters were reflective. Their saturation made them appear darker, but the reflection they produced reminded William of the yellow light that blinded him briefly. And for another 17 seconds he could only look at these letters before he progressed beyond the threshold. 
 
-Unlike the other two areas, this one was more appropriately illuminated. The room was the most logically correct one yet. As he scanned for the next instruction he saw document cases. Just like the ones used in the document accumulation procedure at Infrastructure Inc. These cases were being used as accumation
+Unlike the other two areas, this one was more appropriately illuminated. The room was the most logically correct one yet. As he scanned for the next instruction he saw document cases. Just like the ones used in the document accumulation procedure at Infrastructure Inc. These cases were being used to contain an assortment of dark rubberized strands containing miniature metal nibs protruding from the ends. Negligence had caused them to become a single knot. 
+
+*Superior *
