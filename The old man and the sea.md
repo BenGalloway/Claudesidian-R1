@@ -15,6 +15,3 @@ As this is a classic title many reviews, and deep dives have been done already o
 His ability to carry no egocentric pride is an entirely different frame for this story. Santiago is not noble for his endurance. He is not noble because of victory or defeat. He is noble because the result was accepted. There was no joy after winning the battle. There was physical pain when the first bite is taken from the Marlin. He see himself as a fish. And therefore sees the fish as a brother he simply bested in a competition he knew he carried an advantage in.
 
 And then he thanked his brother. For the fight and his sacrifice. Santiago was willing to die to best himself. Because it was what that day *was.* 
-
-*Superior deployment of recognizable skill set should have been employed.*
-
