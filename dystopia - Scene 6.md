@@ -70,4 +70,10 @@ Then he processed the words.
 
 *It is non-informative, and contains no instruction sets...*
 
-William didn't finish reading the instruction set. He used the parallel method of document storage and 
+William didn't finish reading the instruction set. He used the parallel method of document storage.  He placed the storage ready document in the storage vessel of his trousers just below his waist. 
+
+Then found the first portion with text after the cover. 
+
+It read, "Romette and Julian."
+___
+The hissing of the analog recording 
