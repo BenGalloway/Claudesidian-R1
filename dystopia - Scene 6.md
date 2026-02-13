@@ -76,4 +76,6 @@ Then found the first portion with text after the cover.
 
 It read, "Romette and Julian."
 ___
-The hissing of the analog recording 
+The hissing of the analog recording grew in simultaneous hiss and anger. Coupled with the more and more common popping associated with degrading material. 
+
+The voice had gain confidence 
