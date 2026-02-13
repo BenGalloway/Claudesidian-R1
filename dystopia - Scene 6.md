@@ -38,4 +38,4 @@ Then he found it. But the text on this door was different from those he'd encoun
 
 These letters were reflective. Their saturation made them appear darker, but the reflection they produced reminded William of the yellow light that blinded him briefly. And for another 17 seconds he could only look at these letters before he progressed beyond the threshold. 
 
-Unlike the other two areas, this one was more appropriately illuminated. The room was the most logically correct one yet. As he searched for another
+Unlike the other two areas, this one was more appropriately illuminated. The room was the most logically correct one yet. As he scanned for the next instruction he saw document cases. Just like the ones used to 
