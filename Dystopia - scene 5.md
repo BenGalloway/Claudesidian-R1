@@ -43,3 +43,6 @@ ___
 "I don't recall having used this pattern of words in that order to Wanda in our period of relations. Synthesis occurred after 57 days".
 
 "I was able to maintain control my left metatarsals during the timeframe between the manual of truth projections. Attempts to mimic the masculine voice of the entirely sonic absorption was only admitted when I had no citizens within audible vicinity".
+
+
+Next: [[dystopia Scene 6]]
