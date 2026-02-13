@@ -62,6 +62,6 @@ Retrieval protocol was automatic.
 
 *Who would let a manual page become less than pristine? These undulations require immediate processing and replacement.*
 
-Then he saw the words.
+Then he processed the words.
 
-**
+*This portion of the manual of truth*
