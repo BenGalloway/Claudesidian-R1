@@ -44,3 +44,4 @@ Unlike the other two areas, this one was more appropriately illuminated. The roo
 
 Stepping past the disorderly cases something forced Williams internal navigation to malfunction. 
 
+Right foot remaining suspended, William's respiratory system functioning through his mouth
