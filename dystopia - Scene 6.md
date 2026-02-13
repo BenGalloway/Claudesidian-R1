@@ -46,4 +46,8 @@ Stepping past the disorderly cases something forced Williams internal navigation
 
 Right foot remaining suspended, William's respiratory system functioning through his mouth.
 
-It 
+His optics weren't receiving an entirely foreign image. A text suspension device exactly the same as those used in the Infrastructure Inc library was actively suspending manuals. Williams malfunction was caused by the variety of shades being suspended. 
+
+The non uniformity eventually overrode the navigation malfunction. Forcing William's feet to uncontrollably move him toward it.
+
+*They aren't just different saturation levels. These manuals are non-compliant with uniformity guidelines along the x, y, and z axes.*
