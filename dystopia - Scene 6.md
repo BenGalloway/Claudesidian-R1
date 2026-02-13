@@ -51,3 +51,9 @@ His optics weren't receiving an entirely foreign image. A text suspension device
 The non uniformity eventually overrode the navigation malfunction. Forcing William's feet to uncontrollably move him toward it.
 
 *They aren't just different saturation levels. These manuals are non-compliant with uniformity guidelines along the x, y, and z axes.*
+
+Regaining control just prior to attempting to walk through the suspension device, William examined the entire length of wall.  Every manual was non-uniform to those around it at an exponential rate. 
+
+As his scan concluded he noticed a single blank white cover laying on the floor. It had a single word printed on it, "Collection".
+
+William bent at the waist to return the manual to the vacancy present on the suspension. As the manual was at his waist a page fell out. 
