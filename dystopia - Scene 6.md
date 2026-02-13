@@ -26,4 +26,5 @@ Then he pressed the screen to display the instruction set for this projection.
 
 Same times, same door, new label.
 
-*I'm to locate a door labeled Text: Cellular, Sacred, Authorial*
+*I'm to locate a door labeled Text: Cellular, Sacred, Authorial.*
+
