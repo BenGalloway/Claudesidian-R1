@@ -64,4 +64,10 @@ Retrieval protocol was automatic.
 
 Then he processed the words.
 
-*This portion of the manual of truth*
+*This portion of the manual of truth will prove to be an examination of extreme levels of difficulty.*
+
+*What you hold is a manual prototype from before Citizens were united into a singularity.*
+
+*It is non-informative, and contains no instruction sets...*
+
+William didn't 
