@@ -57,3 +57,7 @@ Regaining control just prior to attempting to walk through the suspension device
 As his scan concluded he noticed a single blank white cover laying on the floor. It had a single word printed on it, "Collection".
 
 William bent at the waist to return the manual to the vacancy present on the suspension. As the manual was at his waist a page fell out. 
+
+Retrieval protocol was automatic.
+
+*Who would let a manual page become less than pristine? All these undulations *
