@@ -70,4 +70,4 @@ Then he processed the words.
 
 *It is non-informative, and contains no instruction sets...*
 
-William didn't finish reading the instruction set. He used the parallel method of document storage 
+William didn't finish reading the instruction set. He used the parallel method of document storage and 
