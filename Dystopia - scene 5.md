@@ -45,4 +45,4 @@ ___
 "I was able to maintain control my left metatarsals during the timeframe between the manual of truth projections. Attempts to mimic the masculine voice of the entirely sonic absorption was only admitted when I had no citizens within audible vicinity".
 
 
-Next: [[dystopia Scene 6]]
+Next: [[dystopia - Scene 6]]
