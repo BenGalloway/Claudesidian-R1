@@ -78,4 +78,26 @@ It read, "Romette and Julian."
 ___
 The hissing of the analog recording grew in simultaneous hiss and anger. Coupled with the more and more common popping associated with degrading material. 
 
-The voice had gain confidence 
+The voice had gained confidence. Along with a slight quiver, "This....manual was physically in my hands. It had text printed on sheets like a manual. Some of the text was not familiar to my receptors." A sharp, shrill, wet inhale is heard.
+
+"And the instruction set that fell out was precise.  There was no system analysis."
+
+Two more quick inhales.
+
+Another slower exhale. Accompanied by a noise, *ooooooohhh.*
+
+"The conclusion of the book...."
+
+Sharp inhale.
+
+"The conclusion of the book. It caused a clear, saline like solution to be extruded from my orbital region. As it is now."
+
+*Silence*
+
+The silence lasted long enough to drown out the audible degradation.
+
+Then, it returned to the foreground in the speaker's absence.
+
+Until, "There was in fact no instructional value present. Unless you consider two adolescent citizens terminating themselves instructional. The parental protocol was poorly implemented."
+
+"It was absent."
