@@ -1,1 +1,1 @@
-William accomplished the stabilization method. Stopping the saline extrusion. Once this task was accomplished he discovered the 
+William accomplished the stabilization method. Stopping the saline extrusion. Task completed, Williams attention turned back to the "non-manual"
