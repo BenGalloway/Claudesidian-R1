@@ -1,0 +1,1 @@
+William accomplished the stabilization method. Stopping the saline extrusion. Once this task was accomplished he discovered the 

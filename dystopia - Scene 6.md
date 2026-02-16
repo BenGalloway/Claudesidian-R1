@@ -101,3 +101,5 @@ Then, it returned to the foreground in the speaker's absence.
 Until, "There was in fact no instructional value present. Unless you consider two adolescent citizens terminating themselves instructional. The parental protocol was poorly implemented."
 
 "It was absent."
+
+[[Dystopia - Scene 7]]
