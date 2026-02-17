@@ -20,3 +20,6 @@ If you're a lucky individual you won't know the experience that is having a love
 
 I hope you never have to. 
 
+It's been almost 3 years since I had a family member attempt to take their own life. 
+
+I've worked through all 5 stages of grief. 
