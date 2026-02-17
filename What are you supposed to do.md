@@ -28,4 +28,12 @@ I'm never going to stop trying to help this person. As much as I might have want
 
 Therapy, Counseling, specialized therapy, psychiatry, researching stem cell treatments. 
 
-Those are all things that have been done or considered since I made a 300 mile drive in 3.5 hours to see my loved one intubated and medically sedated in a hospital room. 
+Those are all things that have been done or considered since I made a 300 mile drive in 3 hours to see my loved one intubated and medically sedated in a hospital room. 
+
+And in the time since, I've seen amazing progress followed by equal levels of regress. 
+
+Nobody cares about me. That's the inner monologue on repeat. 
+
+And I gently pose a question in response, "No? Then why were five people in your room when you woke up from the coma? Did none of us care?"
+
+I don't have the answer. Just more questions. 
