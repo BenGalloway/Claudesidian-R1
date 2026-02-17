@@ -16,7 +16,7 @@ This isn't about laws or rights, or right and wrong, or good vs. evil.
 
 This is simply a matter of taking care of somebody who has given up caring about themselves. 
 
-If you're a lucky individual you won't know the experience that is having a loved one work through this crisis. I envy you. I know this does not mean you don't feel the pain and suffering involved. I'm saying you never had to have a mutual friend of a cousin or sibling send you a message they received from your family member stating, "I can't do it yet, I have to wait until I'm covered by health insurance. Then I'm planning on making it look like accident."
+If you're a lucky individual you won't know the experience that is having a loved one work through this crisis. I envy you. I know this does not mean you don't feel the pain and suffering involved. I'm saying you never had to have a mutual friend of a cousin or sibling send you a message they received from your family member stating, "I can't do it yet, I have to wait until I'm covered by health insurance. Then I'm planning on making it look like an accident."
 
 I hope you never have to. 
 
