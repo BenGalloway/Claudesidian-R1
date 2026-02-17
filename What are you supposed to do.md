@@ -26,4 +26,4 @@ I've worked through all 5 stages of grief. But the lingering question I am unabl
 
 I'm never going to stop trying to help this person. As much as I might have wanted to, I'm not built to quit. Especially when it comes to living. 
 
-Therapy, Counseling, specialized therapy, psychiatriy, stem cell research
+Therapy, Counseling, specialized therapy, psychiatry, researching stem cell treatments. 
