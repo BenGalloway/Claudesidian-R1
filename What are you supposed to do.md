@@ -22,4 +22,6 @@ I hope you never have to.
 
 It's been almost 3 years since I had a family member attempt to take their own life. 
 
-I've worked through all 5 stages of grief. 
+I've worked through all 5 stages of grief. But the lingering question I am unable to formulate an acceptable answer to is this: What do you do when a loved one is insistent on taking their own life?
+
+I'm never going to stop trying to help this person
