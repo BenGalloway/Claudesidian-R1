@@ -6,4 +6,6 @@ That's it.  This time I mean it. You won't see me tomorrow. It feels like I'm a 
 
 These can be spoken words. But, more often they are in letters left behind by those that wrote them, just before they attempt to remove their own souls from their body. 
 
-Some of the greatest artists in history are almost glorified in this tragedy. Hemingway, Cobain, van Gogh
+Some of the greatest artists in history are almost glorified in this tragedy. Hemingway, Cobain, van Gogh, all intentionally harming themselves as if their very soul they sought to remove from vessel of flesh was being tortured by being encased. 
+
+But it isn't just artist that experience this torture. More and more "everyday people" report feelings of [[depression]] 
