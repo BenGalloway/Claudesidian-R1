@@ -8,7 +8,7 @@ These can be spoken words. But, more often they are in letters left behind by th
 
 Some of the greatest artists in history are almost glorified in this tragedy. Hemingway, Cobain, van Gogh, all intentionally harming themselves as if their very soul they sought to remove from vessel of flesh was being tortured by being encased. 
 
-But it isn't just artists that experience this torture. More and more "everyday people" report feelings of [[depression]]. More and more often you turn on the evening news and see a tragic even that's occurred in a public place. A lone person shooting at innocent people in a public space, just to later take their own lives via self-inflicted wounds. 
+But it isn't just artists that experience this torture. More and more "everyday people" report feelings of [[depression]]. More and more often you turn on the evening news and see a tragic event that's occurred in a public place. A lone person shooting at innocent people in a public space, just to later take their own lives via self-inflicted wounds. 
 
 And as a population of 330 million in the United States, we grieve momentarily.  Then we do nothing about it. 
 
