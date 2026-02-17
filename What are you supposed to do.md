@@ -28,4 +28,4 @@ I'm never going to stop trying to help this person. As much as I might have want
 
 Therapy, Counseling, specialized therapy, psychiatry, researching stem cell treatments. 
 
-These are all things that have been done or considered since I made a 300 mile drive in 3.5 hours to see my loved one intubated and medically sedated in a hospital room. 
+Those are all things that have been done or considered since I made a 300 mile drive in 3.5 hours to see my loved one intubated and medically sedated in a hospital room. 
