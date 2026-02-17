@@ -6,4 +6,4 @@ That's it.  This time I mean it. You won't see me tomorrow. It feels like I'm a 
 
 These can be spoken words. But, more often they are in letters left behind by those that wrote them, just before they attempt to remove their own souls from their body. 
 
-Some of the greatest artists in history are almost glorified in this tragedy. Hemingway, Cobain, 
+Some of the greatest artists in history are almost glorified in this tragedy. Hemingway, Cobain, van Gogh
