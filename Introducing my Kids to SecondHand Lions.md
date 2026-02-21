@@ -12,4 +12,8 @@ Not only did they sit through the whole film, they told me how much they were en
 
 Even with the pride that filled me with, the enjoyment for me wasn't derived from pride, it was from them enjoying something that might be forgotten in a week, may never become a favorite of there's. But it was enjoyed as something they all knew to enjoyed by an "old guy".
 
-They didn't see the undertones of greed. They didn't understand how the conclusion showed that you have the ability to choose your family. Nor did they comprehend that no matter how old you get, you can remain a child at heart. You just need to allow yourself that freedom as Garth and Huck did. 
+They didn't see the undertones of greed. They didn't understand how the conclusion showed that you have the ability to choose your family. Nor did they comprehend that no matter how old you get, you can remain a child at heart. You just need to allow yourself that freedom as Garth and Hub did. 
+
+These are all things, that as their parent, fall to me to teach them. But at 7, 4, 2, and soon to be born I don't quite have the vocabulary necessary to teach them. So I used the screen (oh, no! Terrible parent alert! Get over yourself.) to aid me in introducing those topics. It just so happened to be in a manner that made them laugh along the way. Something I'm not capable of currently. 
+
+Genuinely, I just hope they can see that men are capable of being simultaneously tough and tender. Without giving up their ability to be "masculine"
