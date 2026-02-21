@@ -9,3 +9,5 @@ But I haven't watched it since I had my own children. Which soon will grow to a 
 In the age of cartoons like Bluey, and characters like Blippi and Miss Rachel, my excitement was hampered slightly by the potential for loss of interest in something "old".  What I saw from them was a genuine enjoyment for something I believe is "timeless".
 
 Not only did they sit through the whole film, they told me how much they were enjoying it, and how good I was at picking movies to watch. 
+
+Even with the pride that filled me with, the enjoyment for me wasn't derived from pride, it was from them enjoying something that might be forgotten in a week, may never become a favorite of there's. But was enjo
