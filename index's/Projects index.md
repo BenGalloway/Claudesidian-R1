@@ -6,6 +6,8 @@
 [[Charlie's eyes]]
 [[A Simple Inner Architecture]]
 [[Ain't the same no more]]
+[[Be aware of your marks]]
+[[Bring me your fears]]
 ## [[notebook 1 Jul 25 - Oct 25]]
 - [[Toni]]--  Arcadia B&B getaway
 

@@ -1,1 +1,4 @@
 Sometimes, [[rainy days]] turn in to cloudy, gloomy weeks. Meant to be felt. These too are experienced in all their [[negativity]]. Like any of the best sunny summer days are for their [[positivity]]. It isn't [[death]]. If anything it is [[life]], poured upon wilting plants. Renewing the energy the sun had sapped from them. Soak up the water, but be wary of overindulgence.
+
+Related:
+[[Jim Rohn's Season of Life]], [[determinism]], [[choice]]

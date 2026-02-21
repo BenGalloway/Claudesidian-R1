@@ -14,7 +14,32 @@
 	- p.18 - The [[perception]] of others is their understanding
 		- Fostering [[communicate|communication]] is done with flexibility, enabled by [[understanding]] ([[empathetic listening]])
 		- 4 personality types/colors: Red/Dominant, Yellow/Inducement, Green/Submissive, Blue/Analytic
-		- 
+## February 21st
+- [[I could do my job drunk]] - A sign you've made it as a Millenial
+- [[Drag Race with Self-Doubt]] - first established
+- [[Surrounded by Idiots]] p28) Reds - Determined, dynamic, nothing is impossible.  Speak their mind freely with confidence
+- [[Man vs Machine]] - first though of Feb. 2nd
+	- John Henry dies in the original story
+- [[Social media]] has caused words to lose their power
+- [[Surrounded by Idiots]] 
+	- p.33 Yellow's - Infectious optimist, life of a party, freely shares emotion with strangers
+	- p.UK Greens - Other's before self, care givers who prefer things as they are
+	- p62 - Blues - Meticulous analysts.  Detail oriented and patient.
+	- p65 - [[perception]] of other colors being "wrong".  Just a misunderstanding
+	- p71 - Descriptions are for "pure" colors which are rare.  Most are combos (2-3)
+	- 75 - [[Perceptions DISC colors]] 
+		- (75) Red - Harsh, and overly critical.  Egotistical.  
+		- (84) Yellow - Ego-centric. Blurt things out, can juggle many things without knowing how to set them all down. 
+		- (95)  Green - Hard-headed, resistant to change.  Strong-silent type, bottle emotions internally
+		- (106) Blue - Cold and distant. Disinterested.  Needs personal perception of facts to align in order for something to be true.
+- [[Being cynical is easy]] - that's why kindness holds [[Power]]
+- [[Power]] is in choice.  Having a good/bad day is uncontrollable, response isn't.
+- [[Winning (Is)n't Everything]] - first though Feb 4
+- 3 Word Happy Story - The sun rose. = [[Winning (Is)n't Everything]]
+- [[Dystopia Prologue]] - life began Feb 6
+- [[Power]] is derived from perception with regards to structures given power in writing.
+	- cop-out to blame others for short comings
+- Waking up is a [[gift]]
 # [[notebook 2 oct 25 - Dec. 2025]]
 ---
 #### Pre me dating things
