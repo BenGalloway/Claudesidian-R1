@@ -10,4 +10,6 @@ In the age of cartoons like Bluey, and characters like Blippi and Miss Rachel, m
 
 Not only did they sit through the whole film, they told me how much they were enjoying it, and how good I was at picking movies to watch. 
 
-Even with the pride that filled me with, the enjoyment for me wasn't derived from pride, it was from them enjoying something that might be forgotten in a week, may never become a favorite of there's. But was enjo
+Even with the pride that filled me with, the enjoyment for me wasn't derived from pride, it was from them enjoying something that might be forgotten in a week, may never become a favorite of there's. But it was enjoyed as something they all knew to enjoyed by an "old guy".
+
+They didn't see the undertones of greed. They didn't understand how the conclusion showed that you have the ability to choose your family. Nor did they comprehend that no matter how old you get, you can remain a child at heart. You just need to allow yourself that freedom as Garth and Huck did. 
