@@ -8,6 +8,5 @@ Book still out-stretched, his other hand felt in his trouser compartment.  He re
 
 *Repeat this process until our next contact is established.*
 
-*Reminder: No other citizen is to know of the prints, or your absorbing them.  Else, termination will be swift and hasteful.*
-
-
+*Reminder: No other citizen is to know of these prints, or your absorbing them.  Else, termination will be swift and hasteful.*
+___
