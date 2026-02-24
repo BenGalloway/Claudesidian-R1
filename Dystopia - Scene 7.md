@@ -10,3 +10,6 @@ Book still out-stretched, his other hand felt in his trouser compartment.  He re
 
 *Reminder: No other citizen is to know of these prints, or your absorbing them.  Else, termination will be swift and hasteful.*
 ___
+The recording seemed to those present or have stabilized. The hiss was lower, and the popping less frequent. 
+
+"The instructions at this point were the most disrupting set"
