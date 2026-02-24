@@ -12,4 +12,10 @@ Book still out-stretched, his other hand felt in his trouser compartment.  He re
 ___
 The recording seemed to those present or have stabilized. The hiss was lower, and the popping less frequent. 
 
-"The instructions at this point were the most disrupting set"
+"The instructions then were the most disrupting set I've ever received."
+
+"Taking manuals out of the Gooberment library was not a lawful requirement. The process involved in removing a single, outdated manual was the equivalent of 2 cycles worth of Infrastructure Inc paperwork for 2 employees."
+
+"I found myself tasked with now removing a 'non-imformation' based manual, that had already caused a malfunction in my human system's orbital lubrication system while absorbing the first *store-eye*".
+
+___
