@@ -19,3 +19,14 @@ The recording seemed to those present or have stabilized. The hiss was lower, an
 "I found myself tasked with now removing a 'non-imformation' based manual, that had already caused a malfunction in my human system's orbital lubrication system while absorbing the first *store-eye*".
 
 ___
+William had spent the return trip to the residence without giving much mental capacity to the 'non-manual' manual he had tucked into his axilla.  He was to focused on the tightness that returned to his intestines.  To William, it seemed as if is inner tract was in full rebellion against his night-meal.
+
+*I must have eaten spoiled food.*
+
+As William crossed the threshold of his residence he was able to ignore the spike in tightness of the gut as his eyes went wide with the manual of health's definition of 'surprise'.  
+
+*I can't let Wanda see this.
+How am I going to finish the task?*
+
+
+Next: [[Scene 8]]
