@@ -47,4 +47,3 @@ Ultimately, this is a decision every person will make, multiple times throughout
 Failure is what gives capability. Strength is earned through failure. Being honest with one's self is the key to progress. The courage to progress is gained through sharing opinions that are laughed at. Change is won via the verbal combat engaged in when sharing and defending opinions. Opinions should be strong enough to withstand thin scrutiny, but fallible enough to be swayed with new facts.  Winning is not measured by a public facing record.  It is recorded by answering the internal question; did I give it everything I was capable of giving today?
 
 That is a belief I carry.  Molded within myself.  Giving it more power than any external belief system can, or ever will. 
-/pandoc
