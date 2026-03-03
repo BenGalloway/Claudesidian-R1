@@ -4,4 +4,4 @@ Dialogue begin. I'm a thirty-something year old man. Happily married that is soo
 
 I have an Uncle, we'll call him Jerry. Jerry has had the same partner, who we'll call Jim, for nearly as long as my life. I literally can't scrape the earliest memories, clouded behind boozy 20s, where Uncle Jerry and Uncle Jim weren't a part of my life. 
 
-Both of those men were respectable of others potential...disagreements with their unbounded loved for each other. So no, they weren't big on PDA. But they also weren't ashamed of themselves or one another in the slightest. And I'm not afraid or ashamed to say I love both of them and am not willing to give exempt the people I'm close to from a 
+Both of those men were respectable of others potential...disagreements with their unbounded loved for each other. So no, they weren't big on PDA. But they also weren't ashamed of themselves or one another in the slightest. And I'm not afraid or ashamed to say I love both of them.  Not because of ***what*** they are.  But because of ***who*** 
