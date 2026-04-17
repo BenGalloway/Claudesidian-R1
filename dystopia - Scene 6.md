@@ -4,7 +4,7 @@
 
 "During these three cycles a pattern was recognized.  The mouth flanks began to be sore during initiation of the terminal. Losing approximately three point seven percent daily until falling to zero percent on the first day of the 4th cycle."
 
-"Two cycles following my attention was brought to a fall in production rate at Infrastructure Inc. Task speed depreciation, Task accuracy depreciation. Sixteen points eight percent deficiencies in both indicator metrics."
+"Two cycles following my attention was directed to a fall in production rate at Infrastructure Inc. Task speed depreciation, Task accuracy decline. Sixteen point eight percent deficiencies in both metrics."
 ___
 *Six cycles. I must have failed.  This termination was swift and hasteful. Entirely new type of manual, with similar precision to the existing ones.*
 
