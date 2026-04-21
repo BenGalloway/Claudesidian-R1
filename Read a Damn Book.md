@@ -32,4 +32,4 @@ Not because of its physical nature or repetition. Rather, the book requires me t
 
 From the halls of Hogwarts, to the shores of Weteros, I've traveled entire worlds. In some cases multiple times over as a re-visit could be felt pulling me back to discover something missed in the previous visit. 
 
-I was made aware, much later than I'm willing to admit, that this....movie like quality my brain intrinsically assigns to text is not something 
+I was made aware, much later than I'm willing to admit, that this....movie like quality my brain intrinsically assigns to text is not something bestowed upon everyone. Even more of them, can just turn it off. 
