@@ -24,4 +24,8 @@ As I grew older, I moved away from these wonderful escapes. Almost like a gravit
 
 Scrolling through tiktok. Clicking a video on YouTube. Hitting the buttons on a remote that immediately jumps you to your favorite channel. Those actions require a movement of minimal effort in your fingers. Just once per interaction. Easy. Forgettable. 
 
-Turning a page is of equivalent effort. But if a single video is an interaction, I think it would suffice to say that a single chapter in a novel would be a single interaction. Sometimes that may be 20 forgettable movements, or if your Dan Brown, or James Patterson fan two to three tops. Still more than a single video. 
+Turning a page is of equivalent effort. But if a single video is an interaction, I think it would suffice to say that a single chapter in a novel would be a single interaction. Sometimes that may be 20 forgettable movements, or if your Dan Brown, or James Patterson fan two to three tops. Still, more than a single video requires of me. 
+
+Yet, I find it easier to flip 50 pages and forget it than I do fiddling with a remote to find a correct volume. Or change a channel to more agreeable program.
+
+Not because of its physical nature or repetition. Rather, the book requires me to engage a part of my mind the screens do not (funny to me insight: I read mostly on a kindle, irony is cruel in her humor). If I become engrossed in whatever it is thats printed, I am able to construct the characters and their worlds in my minds eye. 
