@@ -19,4 +19,3 @@ Which looking at the scales, I had lost favor.
 To which I thank the family I had as a child. Encouraging me at every turn, yet never with force, to pick up a book. It was the sole concession when I was restricted as a teenager. I could read. Not to play, watch television, or even listen to music. I could sit in my bedroom quietly and read or stare at a wall. I hate staring at walls. 
 
 So I escaped into alternate realites. Through portals that smelled like aged paper. Sometimes yellowed with age, and brittle. Other times with that specific scent of a newly printed text you can only find upon entering these other dimensions. 
-
