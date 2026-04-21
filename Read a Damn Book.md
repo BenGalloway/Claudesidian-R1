@@ -28,4 +28,8 @@ Turning a page is of equivalent effort. But if a single video is an interaction,
 
 Yet, I find it easier to flip 50 pages and forget it than I do fiddling with a remote to find a correct volume. Or change a channel to more agreeable program.
 
-Not because of its physical nature or repetition. Rather, the book requires me to engage a part of my mind the screens do not (funny to me insight: I read mostly on a kindle, irony is cruel in her humor). If I become engrossed in whatever it is thats printed, I am able to construct the characters and their worlds internally, and watch it as I read the words as I would a movie or show. 
+Not because of its physical nature or repetition. Rather, the book requires me to engage a part of my mind the screens do not (funny to me insight: I read mostly on a kindle, irony is cruel in her humor). If I become engrossed in whatever it is thats printed, I am able to construct the characters and their worlds internally, and watch it as if it's a movie or long form series, as I read the words on the pages. I get lost exploring the dynamics of a difficult to explain relationship. Curated with the deftness of a practiced artisan of the silver screen that is restricted to just black ink on white paper. Yet is able to achieve depths that even the author of 20,000 Leagues Under the Sea couldn't fathom. (Yes, it's intended. Jules Verne could absolutely fathom this, as his famous story is one of the best at it.)
+
+From the halls of Hogwarts, to the shores of Weteros, I've traveled entire worlds. In some cases multiple times over as a re-visit could be felt pulling me back to discover something missed in the previous visit. 
+
+I was made aware, much later than I'm willing to admit, that this....movie like quality my brain intrinsically assigns to text is not something 
