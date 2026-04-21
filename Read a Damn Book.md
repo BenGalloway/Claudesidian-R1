@@ -1,0 +1,1 @@
+Binge watching a series on Netlix or Hulu. Losing 2 hours of your Sunday scrolling through shorts, 
