@@ -11,3 +11,12 @@ The algorithm became faster, better, more accurate. More attuned to my specific 
 Now, for transparency, I enjoyed the content. Maybe even subscribed or followed the creator that captured my attention for their allotted time.
 
 But, while it captured me momentarily, it did nothing to engage me. Nothing of substance was worth 15, 30, or 45 minutes of mindlessly staring at another, slightly different screen with another slightly different voice dictating another concept that is closely related to another, already largely accepted one. Only for me to forget it the moment I clicked or scrolled to the next. 
+
+And this drove me mad with boredom. Loss of self control due to innate hollow content. Literally designed to offer me nothing of real value. Other than what I decide it's worth.
+
+Which looking at the scales, I had lost favor. 
+
+To which I thank the family I had as a child. Encouraging me at every turn, yet never with force, to pick up a book. It was the sole concession when I was restricted as a teenager. I could read. Not to play, watch television, or even listen to music. I could sit in my bedroom quietly and read or stare at a wall. I hate staring at walls. 
+
+So I escaped into alternate realites. Through portals that smelled like aged paper. Sometimes yellowed with age, and brittle. Other times with that specific scent of a newly printed text you can only find upon entering these other dimensions. 
+
