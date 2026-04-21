@@ -18,4 +18,10 @@ Which looking at the scales, I had lost favor.
 
 To which I thank the family I had as a child. Encouraging me at every turn, yet never with force, to pick up a book. It was the sole concession when I was restricted as a teenager. I could read. Not to play, watch television, or even listen to music. I could sit in my bedroom quietly and read or stare at a wall. I hate staring at walls. 
 
-So I escaped into alternate realites. Through portals that smelled like aged paper. Sometimes yellowed with age, and brittle. Other times with that specific scent of a newly printed text you can only find upon entering these other dimensions. 
+So I escaped into alternate realites. Through portals that smelled like aged paper. Sometimes yellowed with age, and brittle. Other times with that specific scent of a newly printed text you can only find upon opening up these other dimensions. 
+
+As I grew older, I moved away from these wonderful escapes. Almost like a gravitational force pulled me towards the easy stagnation that is consumption of viewable content. This is where my boredom did lay. 
+
+Scrolling through tiktok. Clicking a video on YouTube. Hitting the buttons on a remote that immediately jumps you to your favorite channel. Those actions require a movement of minimal effort in your fingers. Just once per interaction. Easy. Forgettable. 
+
+Turning a page is of equivalent effort. But if a single video is an interaction, I think it would suffice to say that a single chapter in a novel would be a single interaction. Sometimes that may be 20 forgettable movements, or if your Dan Brown, or James Patterson fan two to three tops. Still more than a single video. 
