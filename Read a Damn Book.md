@@ -32,4 +32,6 @@ Not because of its physical nature or repetition. Rather, the book requires me t
 
 From the halls of Hogwarts, to the shores of Weteros, I've traveled entire worlds. In some cases multiple times over as a re-visit could be felt pulling me back to discover something missed in the previous visit. 
 
-I was made aware, much later than I'm willing to admit, that this....movie like quality my brain intrinsically assigns to text is not something bestowed upon everyone. Even more of them, can just turn it off. 
+My point here is this: If you've found yourself a shell carrying the remnants of a once joyful soul. Maybe you require a break from the algorithm. Go read a damn book. 
+
+If you argue books are expensive, well new ones are. But, library cards aren't. Excuses are like ass cracks. Everyone has one, and they all stink. 
