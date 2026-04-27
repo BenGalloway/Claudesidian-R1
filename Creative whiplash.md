@@ -34,8 +34,14 @@ In fact this whole short essay stems from a single personal insight from my own 
 
 I didn't quit one for the other. I simply embraced the one that required the most attention in the moment.
 
-The fear. The self doubt. The anxiety. The pressure. All places above me 
+The fear. The self doubt. The anxiety. The pressure. All placed above me, to crush me under an enormous weight. Put there with my own hands. 
 
-My words are a different gift than the music my fingers extract from the strings of a guitar. Just as the fictional adventures are a different gift from either of the former. 
+My words are a different gift than the music my fingers extract from the strings of a guitar. Just as the fictional adventures that jump of the page and play themselves silently in my head are different from either of the former. 
 
-All are gifts. Meant to be enjoyed when their flames outshine the others. 
+All of these are gifts. Meant to be enjoyed when one of their flames outshine the others. And they allow me to express myself in more than one specific, specialized way. 
+
+And the irony of it is that, I find myself receiving compliments on these various works I don't feel I deserve. 
+
+Not because I believe I'm bad at them. But because I'm not specialized in them. As I've been told throughout my life is a requirement of skill. 
+
+It is in the long run. 
