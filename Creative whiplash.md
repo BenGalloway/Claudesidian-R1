@@ -23,8 +23,6 @@ I built the walls, the roof and even the mechanics that allowed my fear to exist
 
 The introduction I read spoke about scientific studies that showed the most elite athletes on the planet, in any sport, don't specialize until later in life than those who are near elite. 
 
-Which led me to think about the largely (un)popular author, J.K. Rowling. 
-
 And that's how I came to this realization. 
 
 That I'm not favoring one or the other. 
