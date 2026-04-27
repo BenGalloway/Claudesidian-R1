@@ -10,20 +10,20 @@ And despite being far from idle, this enormous weight kept inching it's way clos
 
 Then, I opened up another book. 
 
-Only, the fear of the slow descension of weight seemed to point me to non-fiction.
+Only, the fear of the slow descension of weight seemed to guide me to non-fiction.
 
 Where I found the door that led me out from under the slowly lowering weight above. 
 
 ___
 
 Not even out of the introduction of this new title yet, I discovered something about the core idea of 'child-like wonder' used as a guide in the zettlekasten method (the method I use in creating and curating ideas such as this one).
-This ability to allow the user to make connections in a way that seem outlandish initially. But at their core are fundamental truths the person believes in. Connecting to other ideas that share similar foundations.  They then manifest themselves through the joy only self-discovery allows simply by linking notes to others as their created. 
-
-The self-discovery also gives these connections added weight. Not just personally, but by making the learned connection more memorable.
+This ability allows the user to make connections in a way that seem outlandish initially. But when connected to other ideas leads to true, properly weighted self-disovery.
 
 I built the walls, the roof and even the mechanics that allowed my fear to exist. I truly believed I was giving up on the passion I have for writing.  To focus on the more abstract creativities I enjoy through music and fictional discovery. 
 
 The introduction I read spoke about scientific studies that showed the most elite athletes on the planet, in any sport, don't specialize until later in life than those who are near elite. 
+
+Which led me to think about the largely (un)popular author, J.K. Rowling. 
 
 And that's how I came to this realization. 
 
@@ -50,4 +50,3 @@ And the irony of it is that, I find myself receiving compliments on some of my w
 
 Not because I believe I'm bad at them. But because I'm not specialized in them. As I've been told throughout my life is a requirement of skill. 
 
-It is in the long run. But a book titled "Range" uses it's introduction to show me, time is on my side.
