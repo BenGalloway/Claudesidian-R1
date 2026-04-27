@@ -34,7 +34,7 @@ In fact this whole short essay stems from a single personal insight from my own 
 
 I didn't quit one for the other. I simply embraced the one that required the most attention in the moment.
 
-The fear of self
+The fear. The self doubt. The anxiety. The pressure. All places above me 
 
 My words are a different gift than the music my fingers extract from the strings of a guitar. Just as the fictional adventures are a different gift from either of the former. 
 
