@@ -16,11 +16,14 @@ Where I found the door that led me out from under the slowly lowering weight abo
 
 ___
 
-Not even out of the introduction of this new title yet, I discovered something about the core idea of child-like wonder used as a guide in the zettlekasten method. Its ability to allow the user to make connections in a way that seems silly or outlandish initially. But at their core are fundamental truths the practicioner believes in. Manifesting themselves through the joy and meaningfulness only self-discovery allows for. 
+Not even out of the introduction of this new title yet, I discovered something about the core idea of 'child-like wonder' used as a guide in the zettlekasten method (the method I use in creating and curating ideas such as this one).
+This ability to allow the user to make connections in a way that seem outlandish initially. But at their core are fundamental truths the person believes in. Connecting to other ideas that share similar foundations.  They then manifest themselves through the joy only self-discovery allows simply by linking notes to others as their created. 
 
-I built the walls, the roof and even the mechanics that allowed the fear to exist. I thought I was giving up on the passion I have for writing.  Focusing more and more on my more abstract creativites of music and fictional discovery. 
+The self-discovery also gives these connections added weight. Not just personally, but by making the learned connection more memorable.
 
-The introduction spoke about scientific studies that showed the most elite athletes on the planet, in any sport, don't specialize until later in life than those who are near elite. 
+I built the walls, the roof and even the mechanics that allowed my fear to exist. I truly believed I was giving up on the passion I have for writing.  To focus on the more abstract creativities I enjoy through music and fictional discovery. 
+
+The introduction I read spoke about scientific studies that showed the most elite athletes on the planet, in any sport, don't specialize until later in life than those who are near elite. 
 
 And that's how I came to this realization. 
 
@@ -34,14 +37,17 @@ In fact this whole short essay stems from a single personal insight from my own 
 
 I didn't quit one for the other. I simply embraced the one that required the most attention in the moment.
 
-The fear. The self doubt. The anxiety. The pressure. All placed above me, to crush me under an enormous weight. Put there with my own hands. 
+The fear. The self doubt. The anxiety. The pressure. All placed above me slowly lowering itself to crush me under an enormous weight. Filling my emotions with pity, anxiety, and self doubt. All of it was put there with my own hands. 
 
-My words are a different gift than the music my fingers extract from the strings of a guitar. Just as the fictional adventures that jump of the page and play themselves silently in my head are different from either of the former. 
 
-All of these are gifts. Meant to be enjoyed when one of their flames outshine the others. And they allow me to express myself in more than one specific, specialized way. 
+All of these are gifts. My ability with words to share and describe complex emotions via a metorphical structure inching it's way down, carrying imminent death.
 
-And the irony of it is that, I find myself receiving compliments on these various works I don't feel I deserve. 
+The tones of emotion I extract with my fingers at percisise points and times on the strings of a guitar. Giving character and life to noise.
+
+Reading a novel that takes place in world wholly unlike ours. Created by an artisan with such detail I create the scenes splayed about on the pages and play them as a movie would play. Concealed inside my head.
+
+And the irony of it is that, I find myself receiving compliments on some of my works I don't feel I deserve. 
 
 Not because I believe I'm bad at them. But because I'm not specialized in them. As I've been told throughout my life is a requirement of skill. 
 
-It is in the long run. But a book titled "Range" uses it's introduction to show me, time is on my side. Not the other's.
+It is in the long run. But a book titled "Range" uses it's introduction to show me, time is on my side.
