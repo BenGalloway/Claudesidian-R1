@@ -6,17 +6,17 @@ But, my hands have been far from idle. I have read more fiction. Allowing myself
 
 In the cases I thought it was good enough, I shared those musical creations with a talented friend.  One who is a much better composer than I am. 
 
-And despite being far from idle, this enormous, malignant, cover kept inching it's way closer and closer. Fractions at a time.  Daring me to find an escape. 
+And despite being far from idle, this enormous weight kept inching it's way closer and closer. Fractions at a time. 
 
 Then, I opened up another book. 
 
-Only, the doom of the encroachment seemed to point me atonon-fiction.
+Only, the fear of the slow descension of weight seemed to point me to non-fiction.
 
-Where I found the escape hatch from imposing doom.
+Where I found the door that led me out from under the slowly lowering weight above. 
 
 ___
 
-Not even out of the introduction of this new title yet I discovered why the chaos of zettlekasten is such a sought after endeavor. Its ability to allow the user to make connections in a way that seems silly or outlandish initially. But at their core are fundamental truths the practicioner believes in. Manifesting themselves through the joy and meaningfulness only self-discovery allows for. 
+Not even out of the introduction of this new title yet, I discovered something about the core idea of child-like wonder used as a guide in the zettlekasten method. Its ability to allow the user to make connections in a way that seems silly or outlandish initially. But at their core are fundamental truths the practicioner believes in. Manifesting themselves through the joy and meaningfulness only self-discovery allows for. 
 
 I built the walls, the roof and even the mechanics that allowed the fear to exist. I thought I was giving up on the passion I have for writing.  Focusing more and more on my more abstract creativites of music and fictional discovery. 
 
