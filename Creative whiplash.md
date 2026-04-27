@@ -44,4 +44,4 @@ And the irony of it is that, I find myself receiving compliments on these variou
 
 Not because I believe I'm bad at them. But because I'm not specialized in them. As I've been told throughout my life is a requirement of skill. 
 
-It is in the long run. But the science being presented here shows me I still have time. 
+It is in the long run. But a book titled "Range" uses it's introduction to show me, time is on my side. Not the other's.
