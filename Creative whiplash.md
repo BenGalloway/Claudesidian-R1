@@ -10,17 +10,20 @@ And despite being far from idle, this enormous, malignant, cover kept inching it
 
 Then, I opened up another book. 
 
-Only, this time it wasn't fiction. And I found the door leading out from the encroaching horror above.
+Only, the doom of the encroachment seemed to point me atonon-fiction.
+
+Where I found the escape hatch from imposing doom.
 
 ___
 
-Not even out of the introduction of this new title yet I discovered why the chaos of zettlekasten is such a sought after endeavor. It's ability to allow the user to make connections in a way that, at face value, seem meaningless. But at their core are fundamental truths the person believes in manifesting themselves through the joy and meaningfulness only self-discovery allows for. 
+Not even out of the introduction of this new title yet I discovered why the chaos of zettlekasten is such a sought after endeavor. Its ability to allow the user to make connections in a way that seems silly or outlandish initially. But at their core are fundamental truths the practicioner believes in. Manifesting themselves through the joy and meaningfulness only self-discovery allows for. 
+
+I built the walls, the roof and even the mechanics that allowed the fear. I thought I was giving up on the passion I have for writing.  Focusing more and more on my more abstract creativites of music and fictional discovery. 
 
 The introduction spoke about scientific studies that showed the most elite athletes on the planet, in any sport, don't specialize until later in life than those who are near elite. 
 
 And that's how I came to this realization. 
 
-I built the walls, the roof and even the mechanics designed to lower it slowly myself. I thought I was giving up on the passion I have for writing.  Focusing more and more on my more abstract creativites of music and fictional discovery. 
 
 But I'm not favoring one or the other. 
 
